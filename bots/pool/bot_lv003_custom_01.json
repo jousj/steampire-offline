@@ -1,0 +1,603 @@
+{
+  "user_id": "bot-custom-lv003-01",
+  "name": "forever young",
+  "avatar": "",
+  "avatar_small": "",
+  "avatar_big": "",
+  "profile_url": "",
+  "level": 3,
+  "th_level": 3,
+  "sex": "m",
+  "exp": 228,
+  "ratio": 18,
+  "account_id": "bot",
+  "snetwork": "bot",
+  "scouting": 0.0,
+  "clan": null,
+  "clan_points": null,
+  "heroes": [],
+  "troops": {},
+  "unit_levels": {
+    "un_troll_mithril": 2,
+    "sp_worker": 1,
+    "un_troll_elite": 2,
+    "un_warrior_mithril": 4,
+    "sp_fireball": 1,
+    "un_motocycle_mithril": 4,
+    "un_warrior_elite": 4,
+    "sp_worker_gold": 1,
+    "un_hero": 1,
+    "un_swarm_mithril": 1,
+    "sp_fog": 1,
+    "un_raid_troll": 1,
+    "un_hero_jaina": 1,
+    "un_copter": 1,
+    "un_boss_warrior": 1,
+    "un_sniper_mithril": 4,
+    "un_dragon": 1,
+    "un_sniper": 1,
+    "un_warrior": 1,
+    "un_sniper_elite": 4,
+    "un_swarm_elite": 2,
+    "un_raid_healer": 1,
+    "un_motocycle_elite": 3
+  },
+  "gold": 999999999,
+  "crystal": 1000,
+  "oil": 500,
+  "mithril": 1483948,
+  "hglory": 45,
+  "ruby": 0,
+  "blue_print": 0,
+  "jglory": 0,
+  "rar_dragon": 0,
+  "buildings": [
+    {
+      "id": 1,
+      "kind": "bl_scouting_hh",
+      "level": 1,
+      "x": 4,
+      "y": 4,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "scouting"
+      }
+    },
+    {
+      "id": 10,
+      "kind": "bl_oil_storage",
+      "level": 1,
+      "x": 21,
+      "y": 23,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 11,
+      "kind": "bl_hero_workshop",
+      "level": 1,
+      "x": 26,
+      "y": 15,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "hero"
+      }
+    },
+    {
+      "id": 9,
+      "kind": "bl_crystal_storage",
+      "level": 2,
+      "x": 17,
+      "y": 23,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 4,
+      "kind": "bl_portal",
+      "level": 1,
+      "x": 17,
+      "y": 12,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "raid"
+      }
+    },
+    {
+      "id": 5,
+      "kind": "bl_library",
+      "level": 1,
+      "x": 27,
+      "y": 12,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "library"
+      }
+    },
+    {
+      "id": 12,
+      "kind": "bl_camp",
+      "level": 1,
+      "x": 23,
+      "y": 13,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "camp"
+      }
+    },
+    {
+      "id": 46,
+      "kind": "bl_clan_center",
+      "level": 1,
+      "x": 18,
+      "y": 26,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "clan_center",
+        "lat": 1773856969.236921,
+        "resources": []
+      }
+    },
+    {
+      "id": 3,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 29,
+      "y": 17,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "pylon"
+      }
+    },
+    {
+      "id": 7,
+      "kind": "bl_oil_tower",
+      "level": 1,
+      "x": 17,
+      "y": 16,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1773857562.957073,
+        "done_count": 81
+      }
+    },
+    {
+      "id": 8,
+      "kind": "bl_crystal_mine",
+      "level": 1,
+      "x": 17,
+      "y": 19,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1773857639.280667,
+        "done_count": 10
+      }
+    },
+    {
+      "id": 2,
+      "kind": "bl_town_hall",
+      "level": 3,
+      "x": 23,
+      "y": 19,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "townhall"
+      }
+    },
+    {
+      "id": 6,
+      "kind": "bl_barracks",
+      "level": 1,
+      "x": 24,
+      "y": 24,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "barrack"
+      }
+    }
+  ],
+  "cannons": [
+    {
+      "id": 45,
+      "kind": "cn_steam_tower",
+      "level": 1,
+      "x": 30,
+      "y": 14,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 44,
+      "kind": "cn_ballista",
+      "level": 1,
+      "x": 27,
+      "y": 19,
+      "state": "finished",
+      "finish_time": null
+    }
+  ],
+  "fences": [],
+  "decors": [],
+  "garbages": [
+    {
+      "id": 18,
+      "kind": "gb_stone_small3",
+      "x": 13,
+      "y": 36,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 19,
+      "kind": "gb_stone_small4",
+      "x": 13,
+      "y": 27,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 32,
+      "kind": "gb_tree_small4",
+      "x": 39,
+      "y": 39,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 17,
+      "kind": "gb_stone_small3",
+      "x": 17,
+      "y": 4,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 28,
+      "kind": "gb_stone_mid2",
+      "x": 6,
+      "y": 41,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 23,
+      "kind": "gb_tree_mid8",
+      "x": 7,
+      "y": 6,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 25,
+      "kind": "gb_tree_small3",
+      "x": 13,
+      "y": 3,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 40,
+      "kind": "gb_stone_small2",
+      "x": 2,
+      "y": 41,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 30,
+      "kind": "gb_stone_small1",
+      "x": 1,
+      "y": 39,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 16,
+      "kind": "gb_tree_small3",
+      "x": 26,
+      "y": 41,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 24,
+      "kind": "gb_tree_mid1",
+      "x": 12,
+      "y": 7,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 14,
+      "kind": "gb_tree_mid2",
+      "x": 5,
+      "y": 29,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 21,
+      "kind": "gb_tree_small1",
+      "x": 22,
+      "y": 4,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 33,
+      "kind": "gb_tree_small6",
+      "x": 4,
+      "y": 38,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 37,
+      "kind": "gb_stone_mid1",
+      "x": 6,
+      "y": 19,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 36,
+      "kind": "gb_tree_mid2",
+      "x": 21,
+      "y": 35,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 15,
+      "kind": "gb_stone_mid1",
+      "x": 31,
+      "y": 5,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 0,
+        "value": 1
+      }
+    },
+    {
+      "id": 41,
+      "kind": "gb_tree_mid6",
+      "x": 11,
+      "y": 30,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 27,
+      "kind": "gb_tree_small2",
+      "x": 37,
+      "y": 3,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 26,
+      "kind": "gb_tree_small5",
+      "x": 24,
+      "y": 31,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 38,
+      "kind": "gb_tree_mid2",
+      "x": 5,
+      "y": 24,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 42,
+      "kind": "gb_tree_mid4",
+      "x": 8,
+      "y": 23,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 31,
+      "kind": "gb_stone_small5",
+      "x": 1,
+      "y": 35,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 13,
+      "kind": "gb_tree_mid5",
+      "x": 35,
+      "y": 28,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 39,
+      "kind": "gb_tree_small7",
+      "x": 5,
+      "y": 10,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 34,
+      "kind": "gb_stone_small4",
+      "x": 5,
+      "y": 13,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 35,
+      "kind": "gb_stone_small5",
+      "x": 3,
+      "y": 15,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 29,
+      "kind": "gb_tree_small7",
+      "x": 31,
+      "y": 30,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 43,
+      "kind": "gb_stone_small4",
+      "x": 4,
+      "y": 15,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 20,
+      "kind": "gb_tree_mid8",
+      "x": 26,
+      "y": 5,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    }
+  ],
+  "object_id_counter": 47
+}

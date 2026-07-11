@@ -1,0 +1,49 @@
+{
+  "bot_lv021_custom_01": {
+    "last_fight_time": 1781881371.2118754,
+    "last_fight_id": "90eb1670-2b1b-4b32-9c04-13994aa0e314",
+    "lose": 1,
+    "last_percentage": 100,
+    "win": 1
+  },
+  "bot_lv003_custom_01": {
+    "last_fight_time": 1781881891.0069492,
+    "last_fight_id": "885ebfa7-09c1-4f00-919a-91d2c1628970",
+    "win": 1,
+    "last_percentage": 100
+  },
+  "bot_lv002_04": {
+    "last_fight_time": 1775501063.7521446,
+    "last_fight_id": "60ba9d8f-84d6-4297-8d62-8c67fb0fa4dc"
+  },
+  "bot_lv009_45": {
+    "last_fight_time": 1775501067.274906,
+    "last_fight_id": "8e96b8f3-d65b-4132-8636-5b57a8a8b494"
+  },
+  "bot_lv004_15": {
+    "last_fight_time": 1775501075.1351528,
+    "last_fight_id": "f46f8ec9-4ec9-4ebe-8b60-4b12ff2701d4"
+  },
+  "bot_lv004_18": {
+    "last_fight_time": 1775501084.8399465,
+    "last_fight_id": "6abdf192-283a-49c9-81ca-b0b2e2728e7b"
+  },
+  "bot_lv003_14": {
+    "last_fight_time": 1775501092.281597,
+    "last_fight_id": "1307d065-1897-47be-b2d3-dc2a786c8446"
+  },
+  "bot_lv014_custom_01": {
+    "last_fight_time": 1775827979.9887497,
+    "last_fight_id": "b07469fc-d02e-48df-b3c3-742d79681bf1"
+  },
+  "bot_lv010_custom_01": {
+    "last_fight_time": 1783774345.1480422,
+    "last_fight_id": "9cd97165-3e74-4e24-a57f-aa5f9e90e007"
+  },
+  "bot_lv020_custom_01": {
+    "last_fight_time": 1781881892.2506022,
+    "last_fight_id": "2a1f6f57-53f6-4e2d-b7b9-8fb4d29c1ecc",
+    "win": 1,
+    "last_percentage": 100
+  }
+}

@@ -1,0 +1,1664 @@
+{
+  "user_id": "bot-custom-lv014-01",
+  "name": "very kitten",
+  "avatar": "",
+  "avatar_small": "",
+  "avatar_big": "",
+  "profile_url": "",
+  "level": 14,
+  "th_level": 3,
+  "sex": "m",
+  "exp": 7544,
+  "ratio": 250,
+  "account_id": "bot",
+  "snetwork": "bot",
+  "scouting": 0.0,
+  "clan": null,
+  "clan_points": null,
+  "heroes": [],
+  "troops": {},
+  "unit_levels": {
+    "un_troll_mithril": 2,
+    "sp_worker": 1,
+    "un_troll_elite": 2,
+    "un_warrior_mithril": 4,
+    "sp_fireball": 1,
+    "un_motocycle_mithril": 4,
+    "un_warrior_elite": 4,
+    "sp_worker_gold": 1,
+    "un_hero": 1,
+    "un_swarm_mithril": 1,
+    "sp_fog": 1,
+    "un_raid_troll": 1,
+    "un_hero_jaina": 1,
+    "un_copter": 1,
+    "un_boss_warrior": 1,
+    "un_sniper_mithril": 4,
+    "un_dragon": 1,
+    "un_sniper": 1,
+    "un_warrior": 1,
+    "un_sniper_elite": 4,
+    "un_swarm_elite": 2,
+    "un_raid_healer": 1,
+    "un_motocycle_elite": 3,
+    "un_motocycle": 1,
+    "un_troll": 1,
+    "un_swarm": 1,
+    "un_fairy": 1
+  },
+  "gold": 999889028,
+  "crystal": 57600,
+  "oil": 603466,
+  "mithril": 1483948,
+  "hglory": 45,
+  "ruby": 0,
+  "blue_print": 0,
+  "jglory": 0,
+  "rar_dragon": 0,
+  "buildings": [
+    {
+      "id": 1,
+      "kind": "bl_scouting_hh",
+      "level": 1,
+      "x": 5,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "scouting"
+      }
+    },
+    {
+      "id": 10,
+      "kind": "bl_oil_storage",
+      "level": 7,
+      "x": 33,
+      "y": 28,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 11,
+      "kind": "bl_hero_workshop",
+      "level": 1,
+      "x": 41,
+      "y": 41,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "hero"
+      }
+    },
+    {
+      "id": 9,
+      "kind": "bl_crystal_storage",
+      "level": 7,
+      "x": 36,
+      "y": 25,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 4,
+      "kind": "bl_portal",
+      "level": 1,
+      "x": 37,
+      "y": 40,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "raid"
+      }
+    },
+    {
+      "id": 5,
+      "kind": "bl_library",
+      "level": 1,
+      "x": 12,
+      "y": 17,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "library"
+      }
+    },
+    {
+      "id": 12,
+      "kind": "bl_camp",
+      "level": 4,
+      "x": 33,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "camp"
+      }
+    },
+    {
+      "id": 46,
+      "kind": "bl_clan_center",
+      "level": 1,
+      "x": 28,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "clan_center",
+        "lat": 1773856969.236921,
+        "resources": []
+      }
+    },
+    {
+      "id": 3,
+      "kind": "bl_power_plant",
+      "level": 2,
+      "x": 24,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "pylon"
+      }
+    },
+    {
+      "id": 7,
+      "kind": "bl_oil_tower",
+      "level": 1,
+      "x": 33,
+      "y": 22,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1773857562.957073,
+        "done_count": 81
+      }
+    },
+    {
+      "id": 8,
+      "kind": "bl_crystal_mine",
+      "level": 1,
+      "x": 36,
+      "y": 13,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775589992.9121733,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 2,
+      "kind": "bl_town_hall",
+      "level": 4,
+      "x": 22,
+      "y": 18,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "townhall"
+      }
+    },
+    {
+      "id": 6,
+      "kind": "bl_barracks",
+      "level": 5,
+      "x": 13,
+      "y": 21,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "barrack"
+      }
+    },
+    {
+      "id": 48,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 21,
+      "y": 14,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775501239.3157403,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 49,
+      "kind": "bl_builder",
+      "level": 1,
+      "x": 3,
+      "y": 40,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "worker"
+      }
+    },
+    {
+      "id": 50,
+      "kind": "bl_builder",
+      "level": 1,
+      "x": 4,
+      "y": 3,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "worker"
+      }
+    },
+    {
+      "id": 51,
+      "kind": "bl_builder",
+      "level": 1,
+      "x": 41,
+      "y": 3,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "worker"
+      }
+    },
+    {
+      "id": 52,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 18,
+      "y": 17,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775501252.3720393,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 53,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 22,
+      "y": 20,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775501254.5057373,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 54,
+      "kind": "bl_power_plant",
+      "level": 4,
+      "x": 24,
+      "y": 17,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775501257.1702292,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 55,
+      "kind": "bl_oil_storage",
+      "level": 7,
+      "x": 33,
+      "y": 25,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 56,
+      "kind": "bl_crystal_storage",
+      "level": 7,
+      "x": 36,
+      "y": 28,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 138,
+      "kind": "bl_guard_tower",
+      "level": 4,
+      "x": 17,
+      "y": 23,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "guard",
+        "config": [
+          {
+            "kind": "un_fairy",
+            "count": 2
+          },
+          {
+            "kind": "un_sniper",
+            "count": 2
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "id": 161,
+      "kind": "bl_guard_tower",
+      "level": 4,
+      "x": 21,
+      "y": 11,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "guard",
+        "config": [
+          {
+            "kind": "un_fairy",
+            "count": 2
+          },
+          {
+            "kind": "un_sniper",
+            "count": 2
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "id": 162,
+      "kind": "bl_academy",
+      "level": 4,
+      "x": 12,
+      "y": 11,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "research"
+      }
+    },
+    {
+      "id": 172,
+      "kind": "bl_ruby_mine",
+      "level": 1,
+      "x": 12,
+      "y": 14,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775589101.4766953,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 173,
+      "kind": "bl_oil_tower",
+      "level": 1,
+      "x": 33,
+      "y": 19,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775589478.828196,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 174,
+      "kind": "bl_oil_tower",
+      "level": 1,
+      "x": 33,
+      "y": 16,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775589482.2326324,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 175,
+      "kind": "bl_oil_tower",
+      "level": 1,
+      "x": 33,
+      "y": 13,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775589494.2513447,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 176,
+      "kind": "bl_crystal_mine",
+      "level": 1,
+      "x": 36,
+      "y": 16,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775589992.848855,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 177,
+      "kind": "bl_crystal_mine",
+      "level": 1,
+      "x": 36,
+      "y": 19,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775589992.7847624,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 178,
+      "kind": "bl_crystal_mine",
+      "level": 1,
+      "x": 36,
+      "y": 22,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775589992.7442496,
+        "done_count": 0
+      }
+    }
+  ],
+  "cannons": [
+    {
+      "id": 45,
+      "kind": "cn_steam_tower",
+      "level": 3,
+      "x": 16,
+      "y": 17,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 44,
+      "kind": "cn_ballista",
+      "level": 1,
+      "x": 18,
+      "y": 11,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 57,
+      "kind": "cn_freezing_tower",
+      "level": 2,
+      "x": 27,
+      "y": 17,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 58,
+      "kind": "cn_flamethrower",
+      "level": 2,
+      "x": 20,
+      "y": 21,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 59,
+      "kind": "cn_flamethrower",
+      "level": 2,
+      "x": 25,
+      "y": 20,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 60,
+      "kind": "cn_mortar",
+      "level": 1,
+      "x": 17,
+      "y": 20,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 136,
+      "kind": "cn_tesla_coil",
+      "level": 1,
+      "x": 19,
+      "y": 14,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 137,
+      "kind": "cn_steam_tower",
+      "level": 3,
+      "x": 24,
+      "y": 14,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 155,
+      "kind": "cn_cannon",
+      "level": 1,
+      "x": 27,
+      "y": 14,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 156,
+      "kind": "cn_cannon",
+      "level": 1,
+      "x": 16,
+      "y": 14,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 157,
+      "kind": "cn_air",
+      "level": 1,
+      "x": 23,
+      "y": 23,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 158,
+      "kind": "cn_ballista",
+      "level": 1,
+      "x": 26,
+      "y": 23,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 159,
+      "kind": "cn_ballista",
+      "level": 1,
+      "x": 20,
+      "y": 24,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 160,
+      "kind": "cn_ballista",
+      "level": 1,
+      "x": 28,
+      "y": 20,
+      "state": "finished",
+      "finish_time": null
+    }
+  ],
+  "fences": [
+    {
+      "id": 61,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 23,
+      "y": 11
+    },
+    {
+      "id": 62,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 24,
+      "y": 11
+    },
+    {
+      "id": 63,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 25,
+      "y": 11
+    },
+    {
+      "id": 64,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 26,
+      "y": 11
+    },
+    {
+      "id": 65,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 27,
+      "y": 11
+    },
+    {
+      "id": 66,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 11
+    },
+    {
+      "id": 67,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 12
+    },
+    {
+      "id": 68,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 13
+    },
+    {
+      "id": 69,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 14
+    },
+    {
+      "id": 70,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 15
+    },
+    {
+      "id": 71,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 16
+    },
+    {
+      "id": 72,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 17
+    },
+    {
+      "id": 73,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 17
+    },
+    {
+      "id": 74,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 18
+    },
+    {
+      "id": 75,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 19
+    },
+    {
+      "id": 76,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 20
+    },
+    {
+      "id": 77,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 21
+    },
+    {
+      "id": 78,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 21
+    },
+    {
+      "id": 79,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 27,
+      "y": 21
+    },
+    {
+      "id": 80,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 27,
+      "y": 22
+    },
+    {
+      "id": 81,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 27,
+      "y": 23
+    },
+    {
+      "id": 82,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 27,
+      "y": 24
+    },
+    {
+      "id": 83,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 26,
+      "y": 24
+    },
+    {
+      "id": 84,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 25,
+      "y": 24
+    },
+    {
+      "id": 85,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 24,
+      "y": 24
+    },
+    {
+      "id": 86,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 23,
+      "y": 24
+    },
+    {
+      "id": 87,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 22,
+      "y": 24
+    },
+    {
+      "id": 88,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 21,
+      "y": 24
+    },
+    {
+      "id": 89,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 21,
+      "y": 25
+    },
+    {
+      "id": 90,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 20,
+      "y": 25
+    },
+    {
+      "id": 91,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 19,
+      "y": 25
+    },
+    {
+      "id": 92,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 18,
+      "y": 25
+    },
+    {
+      "id": 93,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 17,
+      "y": 25
+    },
+    {
+      "id": 94,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 17,
+      "y": 24
+    },
+    {
+      "id": 95,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 16,
+      "y": 24
+    },
+    {
+      "id": 96,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 15,
+      "y": 24
+    },
+    {
+      "id": 97,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 14,
+      "y": 24
+    },
+    {
+      "id": 98,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 14,
+      "y": 23
+    },
+    {
+      "id": 99,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 14,
+      "y": 22
+    },
+    {
+      "id": 100,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 14,
+      "y": 21
+    },
+    {
+      "id": 101,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 14,
+      "y": 20
+    },
+    {
+      "id": 102,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 14,
+      "y": 19
+    },
+    {
+      "id": 103,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 14,
+      "y": 18
+    },
+    {
+      "id": 104,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 13,
+      "y": 18
+    },
+    {
+      "id": 105,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 13,
+      "y": 17
+    },
+    {
+      "id": 106,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 13,
+      "y": 16
+    },
+    {
+      "id": 107,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 13,
+      "y": 15
+    },
+    {
+      "id": 108,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 13,
+      "y": 14
+    },
+    {
+      "id": 109,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 13,
+      "y": 13
+    },
+    {
+      "id": 110,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 13,
+      "y": 12
+    },
+    {
+      "id": 111,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 13,
+      "y": 11
+    },
+    {
+      "id": 112,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 14,
+      "y": 11
+    },
+    {
+      "id": 113,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 15,
+      "y": 11
+    },
+    {
+      "id": 114,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 15,
+      "y": 10
+    },
+    {
+      "id": 115,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 15,
+      "y": 9
+    },
+    {
+      "id": 116,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 15,
+      "y": 8
+    },
+    {
+      "id": 117,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 16,
+      "y": 8
+    },
+    {
+      "id": 118,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 17,
+      "y": 8
+    },
+    {
+      "id": 119,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 18,
+      "y": 8
+    },
+    {
+      "id": 120,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 19,
+      "y": 8
+    },
+    {
+      "id": 121,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 20,
+      "y": 8
+    },
+    {
+      "id": 122,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 21,
+      "y": 8
+    },
+    {
+      "id": 123,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 22,
+      "y": 8
+    },
+    {
+      "id": 124,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 22,
+      "y": 9
+    },
+    {
+      "id": 125,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 22,
+      "y": 10
+    },
+    {
+      "id": 126,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 24,
+      "y": 8
+    },
+    {
+      "id": 127,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 25,
+      "y": 8
+    },
+    {
+      "id": 128,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 25,
+      "y": 9
+    },
+    {
+      "id": 129,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 25,
+      "y": 10
+    },
+    {
+      "id": 130,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 12
+    },
+    {
+      "id": 131,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 13
+    },
+    {
+      "id": 132,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 14
+    },
+    {
+      "id": 133,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 15
+    },
+    {
+      "id": 134,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 16
+    },
+    {
+      "id": 135,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 30,
+      "y": 16
+    },
+    {
+      "id": 139,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 30,
+      "y": 17
+    },
+    {
+      "id": 140,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 30,
+      "y": 18
+    },
+    {
+      "id": 141,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 30,
+      "y": 19
+    },
+    {
+      "id": 142,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 30,
+      "y": 20
+    },
+    {
+      "id": 143,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 30,
+      "y": 21
+    },
+    {
+      "id": 144,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 30,
+      "y": 22
+    },
+    {
+      "id": 145,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 22
+    },
+    {
+      "id": 146,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 22
+    },
+    {
+      "id": 147,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 23
+    },
+    {
+      "id": 148,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 24
+    },
+    {
+      "id": 149,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 25
+    },
+    {
+      "id": 150,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 27,
+      "y": 25
+    },
+    {
+      "id": 151,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 26,
+      "y": 25
+    },
+    {
+      "id": 152,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 25,
+      "y": 25
+    },
+    {
+      "id": 153,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 24,
+      "y": 25
+    },
+    {
+      "id": 154,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 23,
+      "y": 25
+    },
+    {
+      "id": 163,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 22,
+      "y": 25
+    },
+    {
+      "id": 164,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 22,
+      "y": 26
+    },
+    {
+      "id": 165,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 21,
+      "y": 26
+    },
+    {
+      "id": 166,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 20,
+      "y": 26
+    },
+    {
+      "id": 167,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 19,
+      "y": 26
+    },
+    {
+      "id": 168,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 18,
+      "y": 26
+    },
+    {
+      "id": 169,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 11
+    },
+    {
+      "id": 170,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 23,
+      "y": 8
+    },
+    {
+      "id": 171,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 22,
+      "y": 11
+    }
+  ],
+  "decors": [],
+  "garbages": [
+    {
+      "id": 18,
+      "kind": "gb_stone_small3",
+      "x": 13,
+      "y": 36,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 19,
+      "kind": "gb_stone_small4",
+      "x": 13,
+      "y": 27,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 32,
+      "kind": "gb_tree_small4",
+      "x": 39,
+      "y": 39,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 17,
+      "kind": "gb_stone_small3",
+      "x": 17,
+      "y": 4,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 28,
+      "kind": "gb_stone_mid2",
+      "x": 6,
+      "y": 41,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 23,
+      "kind": "gb_tree_mid8",
+      "x": 7,
+      "y": 6,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 25,
+      "kind": "gb_tree_small3",
+      "x": 13,
+      "y": 3,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 40,
+      "kind": "gb_stone_small2",
+      "x": 2,
+      "y": 41,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 30,
+      "kind": "gb_stone_small1",
+      "x": 1,
+      "y": 39,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 16,
+      "kind": "gb_tree_small3",
+      "x": 26,
+      "y": 41,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 24,
+      "kind": "gb_tree_mid1",
+      "x": 12,
+      "y": 7,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 14,
+      "kind": "gb_tree_mid2",
+      "x": 5,
+      "y": 29,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 21,
+      "kind": "gb_tree_small1",
+      "x": 22,
+      "y": 4,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 33,
+      "kind": "gb_tree_small6",
+      "x": 4,
+      "y": 38,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 37,
+      "kind": "gb_stone_mid1",
+      "x": 6,
+      "y": 19,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 36,
+      "kind": "gb_tree_mid2",
+      "x": 21,
+      "y": 35,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 15,
+      "kind": "gb_stone_mid1",
+      "x": 31,
+      "y": 5,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 0,
+        "value": 1
+      }
+    },
+    {
+      "id": 41,
+      "kind": "gb_tree_mid6",
+      "x": 11,
+      "y": 30,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 27,
+      "kind": "gb_tree_small2",
+      "x": 37,
+      "y": 3,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 26,
+      "kind": "gb_tree_small5",
+      "x": 24,
+      "y": 31,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 38,
+      "kind": "gb_tree_mid2",
+      "x": 5,
+      "y": 24,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 42,
+      "kind": "gb_tree_mid4",
+      "x": 8,
+      "y": 23,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 31,
+      "kind": "gb_stone_small5",
+      "x": 1,
+      "y": 35,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 39,
+      "kind": "gb_tree_small7",
+      "x": 5,
+      "y": 10,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 34,
+      "kind": "gb_stone_small4",
+      "x": 5,
+      "y": 13,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 35,
+      "kind": "gb_stone_small5",
+      "x": 3,
+      "y": 15,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 43,
+      "kind": "gb_stone_small4",
+      "x": 4,
+      "y": 15,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    },
+    {
+      "id": 20,
+      "kind": "gb_tree_mid8",
+      "x": 26,
+      "y": 5,
+      "removing": false,
+      "start_remove": null,
+      "prize": {
+        "type": 5,
+        "value": 1
+      }
+    }
+  ],
+  "object_id_counter": 178
+}

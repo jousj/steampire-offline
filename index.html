@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stimperium offline</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background: radial-gradient(circle at center, #1a1a1a, #0d0d0d);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .hint {
+            color: rgba(255, 255, 255, 0.25);
+            font-family: 'Segoe UI', Arial, sans-serif;
+            font-size: 14px;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+            user-select: none;
+            transition: opacity 0.3s ease;
+        }
+        .hint:hover {
+            opacity: 0;
+        }
+        .game-container {
+            width: 1000px;
+            height: 700px;
+            background: #111;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.8);
+        }
+        .game-container.fullscreen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            border-radius: 0;
+            box-shadow: none;
+            z-index: 9999;
+        }
+        object {
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+        @media (max-width: 1100px) {
+            .game-container { width: 880px; height: 616px; }
+        }
+        @media (max-width: 960px) {
+            .game-container { width: 760px; height: 532px; }
+        }
+        @media (max-width: 820px) {
+            .game-container { width: 640px; height: 448px; }
+        }
+        @media (max-width: 720px) {
+            .game-container { width: 540px; height: 378px; }
+        }
+        @media (max-width: 620px) {
+            .game-container { width: 460px; height: 322px; }
+        }
+        @media (max-width: 520px) {
+            .game-container { width: 360px; height: 252px; }
+            .hint { font-size: 11px; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="hint">F11 — полноэкранный режим</div>
+
+<div class="game-container" id="gameContainer">
+    <object 
+        classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" 
+        width="1000" 
+        height="700" 
+        id="SteampunkGame"
+        data="Steampunk.swf"
+    >
+        <param name="movie" value="Steampunk.swf" />
+        <param name="flashvars" value="api_url=http://localhost/proto&api_id=4010141&viewer_id=765792097&auth_key=d778cd3a4e1a7432f99757bacfe2164f&secret=93d836a373&sid=vk1.a.ryXnpu&is_secure=1&is_app_user=1&language=ru" />
+        <param name="allowScriptAccess" value="always" />
+        <param name="allowNetworking" value="all" />
+        <param name="wmode" value="direct" />
+        <param name="quality" value="high" />
+        <param name="bgcolor" value="#000000" />
+        
+        <object type="application/x-shockwave-flash" data="Steampunk.swf" width="1000" height="700">
+            <param name="flashvars" value="api_url=http://localhost/proto&api_id=4010141&viewer_id=765792097&auth_key=d778cd3a4e1a7432f99757bacfe2164f&secret=93d836a373&sid=vk1.a.ryXnpu&is_secure=1&is_app_user=1&language=ru" />
+            <param name="allowScriptAccess" value="always" />
+            <param name="allowNetworking" value="all" />
+            <param name="wmode" value="direct" />
+            <param name="quality" value="high" />
+            <param name="bgcolor" value="#000000" />
+        </object>
+    </object>
+</div>
+
+<script>
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'F11') {
+            e.preventDefault();
+            const container = document.getElementById('gameContainer');
+            container.classList.toggle('fullscreen');
+        }
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,5408 @@
+{
+  "un_boss_dwarf": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_boss_healer": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_boss_troll": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_boss_warrior": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_disinfector": {
+    "1": {
+      "up_price": {
+        "oil": 12000
+      },
+      "up_time": 32400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 200000
+      },
+      "up_time": 172800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 400000
+      },
+      "up_time": 432000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 700000,
+        "mithril": 500
+      },
+      "up_time": 518400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 740000,
+        "mithril": 500
+      },
+      "up_time": 568800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 780000,
+        "mithril": 500
+      },
+      "up_time": 655200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 820000,
+        "mithril": 1000
+      },
+      "up_time": 741600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 860000,
+        "mithril": 1000
+      },
+      "up_time": 745200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "9": {
+      "up_price": {
+        "oil": 900000,
+        "mithril": 1000
+      },
+      "up_time": 748800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "10": {
+      "up_price": {
+        "oil": 940000,
+        "mithril": 1000
+      },
+      "up_time": 752400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "11": {
+      "up_price": {
+        "oil": 980000,
+        "mithril": 2000
+      },
+      "up_time": 756000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "12": {
+      "up_price": {
+        "oil": 1020000,
+        "mithril": 2000
+      },
+      "up_time": 759600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "13": {
+      "up_price": {
+        "oil": 1060000,
+        "mithril": 2000
+      },
+      "up_time": 763200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "14": {
+      "up_price": {
+        "oil": 1100000,
+        "mithril": 2000
+      },
+      "up_time": 766800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "15": {
+      "up_price": {
+        "oil": 1140000,
+        "mithril": 5000
+      },
+      "up_time": 770400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "16": {
+      "up_price": {
+        "oil": 1180000,
+        "mithril": 5000
+      },
+      "up_time": 774000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "17": {
+      "up_price": {
+        "oil": 1220000,
+        "mithril": 5000
+      },
+      "up_time": 777600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "18": {
+      "up_price": {
+        "oil": 1260000,
+        "mithril": 5000
+      },
+      "up_time": 781200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "19": {
+      "up_price": {
+        "oil": 1300000,
+        "mithril": 10000
+      },
+      "up_time": 784800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "20": {
+      "up_price": {
+        "oil": 1340000,
+        "mithril": 10000
+      },
+      "up_time": 788400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "21": {
+      "up_price": {
+        "oil": 1380000,
+        "mithril": 10000
+      },
+      "up_time": 792000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "22": {
+      "up_price": {
+        "oil": 1420000,
+        "mithril": 10000
+      },
+      "up_time": 795600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "23": {
+      "up_price": {
+        "oil": 1460000,
+        "mithril": 15000
+      },
+      "up_time": 799200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "24": {
+      "up_price": {
+        "oil": 1500000,
+        "mithril": 15000
+      },
+      "up_time": 802800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "25": {
+      "up_price": {
+        "oil": 1540000,
+        "mithril": 15000
+      },
+      "up_time": 806400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "26": {
+      "up_price": {
+        "oil": 1580000,
+        "mithril": 15000
+      },
+      "up_time": 810000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "27": {
+      "up_price": {
+        "oil": 1620000,
+        "mithril": 20000
+      },
+      "up_time": 813600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "28": {
+      "up_price": {
+        "oil": 1660000,
+        "mithril": 20000
+      },
+      "up_time": 817200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "29": {
+      "up_price": {
+        "oil": 1700000,
+        "mithril": 20000
+      },
+      "up_time": 820800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "30": {
+      "up_price": {
+        "oil": 1740000,
+        "mithril": 20000
+      },
+      "up_time": 824400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "31": {
+      "up_price": {
+        "oil": 1780000,
+        "mithril": 25000
+      },
+      "up_time": 828000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "32": {
+      "up_price": {
+        "oil": 1820000,
+        "mithril": 25000
+      },
+      "up_time": 831600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "33": {
+      "up_price": {
+        "oil": 1860000,
+        "mithril": 25000
+      },
+      "up_time": 835200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "34": {
+      "up_price": {
+        "oil": 1900000,
+        "mithril": 25000
+      },
+      "up_time": 838800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "35": {
+      "up_price": {
+        "oil": 1940000,
+        "mithril": 30000
+      },
+      "up_time": 842400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "36": {
+      "up_price": {
+        "oil": 1980000,
+        "mithril": 30000
+      },
+      "up_time": 846000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "37": {
+      "up_price": {
+        "oil": 2020000,
+        "mithril": 30000
+      },
+      "up_time": 849600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "38": {
+      "up_price": {
+        "oil": 2060000,
+        "mithril": 30000
+      },
+      "up_time": 853200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "39": {
+      "up_price": {
+        "oil": 2100000,
+        "mithril": 30000
+      },
+      "up_time": 856800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "40": {
+      "up_price": {
+        "oil": 2140000,
+        "mithril": 30000
+      },
+      "up_time": 860400,
+      "model_level": 2,
+      "can_buy": true
+    }
+  },
+  "un_dragon": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 180,
+      "model_level": 1,
+      "can_buy": true
+    }
+  },
+  "un_dwarf": {
+    "1": {
+      "up_price": {
+        "oil": 4500
+      },
+      "up_time": 10800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 100000
+      },
+      "up_time": 115200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 265000
+      },
+      "up_time": 194400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 375000
+      },
+      "up_time": 345600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 620000
+      },
+      "up_time": 655200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 655000,
+        "mithril": 500
+      },
+      "up_time": 658800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 690000,
+        "mithril": 500
+      },
+      "up_time": 662400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 725000,
+        "mithril": 500
+      },
+      "up_time": 666000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "9": {
+      "up_price": {
+        "oil": 760000,
+        "mithril": 1000
+      },
+      "up_time": 669600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "10": {
+      "up_price": {
+        "oil": 795000,
+        "mithril": 1000
+      },
+      "up_time": 673200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "11": {
+      "up_price": {
+        "oil": 830000,
+        "mithril": 1000
+      },
+      "up_time": 676800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "12": {
+      "up_price": {
+        "oil": 865000,
+        "mithril": 1000
+      },
+      "up_time": 680400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "13": {
+      "up_price": {
+        "oil": 900000,
+        "mithril": 2000
+      },
+      "up_time": 684000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "14": {
+      "up_price": {
+        "oil": 935000,
+        "mithril": 2000
+      },
+      "up_time": 687600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "15": {
+      "up_price": {
+        "oil": 970000,
+        "mithril": 2000
+      },
+      "up_time": 691200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "16": {
+      "up_price": {
+        "oil": 1005000,
+        "mithril": 2000
+      },
+      "up_time": 694800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "17": {
+      "up_price": {
+        "oil": 1040000,
+        "mithril": 5000
+      },
+      "up_time": 698400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "18": {
+      "up_price": {
+        "oil": 1075000,
+        "mithril": 5000
+      },
+      "up_time": 702000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "19": {
+      "up_price": {
+        "oil": 1110000,
+        "mithril": 5000
+      },
+      "up_time": 705600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "20": {
+      "up_price": {
+        "oil": 1145000,
+        "mithril": 5000
+      },
+      "up_time": 709200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "21": {
+      "up_price": {
+        "oil": 1180000,
+        "mithril": 10000
+      },
+      "up_time": 712800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "22": {
+      "up_price": {
+        "oil": 1215000,
+        "mithril": 10000
+      },
+      "up_time": 716400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "23": {
+      "up_price": {
+        "oil": 1250000,
+        "mithril": 10000
+      },
+      "up_time": 720000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "24": {
+      "up_price": {
+        "oil": 1285000,
+        "mithril": 10000
+      },
+      "up_time": 723600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "25": {
+      "up_price": {
+        "oil": 1320000,
+        "mithril": 15000
+      },
+      "up_time": 727200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "26": {
+      "up_price": {
+        "oil": 1355000,
+        "mithril": 15000
+      },
+      "up_time": 730800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "27": {
+      "up_price": {
+        "oil": 1390000,
+        "mithril": 15000
+      },
+      "up_time": 734400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "28": {
+      "up_price": {
+        "oil": 1425000,
+        "mithril": 15000
+      },
+      "up_time": 738000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "29": {
+      "up_price": {
+        "oil": 1460000,
+        "mithril": 20000
+      },
+      "up_time": 741600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "30": {
+      "up_price": {
+        "oil": 1495000,
+        "mithril": 20000
+      },
+      "up_time": 745200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "31": {
+      "up_price": {
+        "oil": 1530000,
+        "mithril": 20000
+      },
+      "up_time": 748800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "32": {
+      "up_price": {
+        "oil": 1565000,
+        "mithril": 20000
+      },
+      "up_time": 752400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "33": {
+      "up_price": {
+        "oil": 1600000,
+        "mithril": 25000
+      },
+      "up_time": 756000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "34": {
+      "up_price": {
+        "oil": 1635000,
+        "mithril": 25000
+      },
+      "up_time": 759600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "35": {
+      "up_price": {
+        "oil": 1670000,
+        "mithril": 25000
+      },
+      "up_time": 763200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "36": {
+      "up_price": {
+        "oil": 1705000,
+        "mithril": 25000
+      },
+      "up_time": 766800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "37": {
+      "up_price": {
+        "oil": 1740000,
+        "mithril": 30000
+      },
+      "up_time": 770400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "38": {
+      "up_price": {
+        "oil": 1775000,
+        "mithril": 30000
+      },
+      "up_time": 774000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "39": {
+      "up_price": {
+        "oil": 1810000,
+        "mithril": 30000
+      },
+      "up_time": 777600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "40": {
+      "up_price": {
+        "oil": 1845000,
+        "mithril": 30000
+      },
+      "up_time": 781200,
+      "model_level": 3,
+      "can_buy": true
+    }
+  },
+  "un_fairy": {
+    "1": {
+      "up_price": {
+        "oil": 12000
+      },
+      "up_time": 32400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 42000
+      },
+      "up_time": 115200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 132000
+      },
+      "up_time": 432000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 300000
+      },
+      "up_time": 518400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 625000
+      },
+      "up_time": 568800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 660000,
+        "mithril": 500
+      },
+      "up_time": 572400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 680000,
+        "mithril": 500
+      },
+      "up_time": 576000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 700000,
+        "mithril": 500
+      },
+      "up_time": 579600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "9": {
+      "up_price": {
+        "oil": 720000,
+        "mithril": 500
+      },
+      "up_time": 583200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "10": {
+      "up_price": {
+        "oil": 740000,
+        "mithril": 1000
+      },
+      "up_time": 586800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "11": {
+      "up_price": {
+        "oil": 760000,
+        "mithril": 1000
+      },
+      "up_time": 590400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "12": {
+      "up_price": {
+        "oil": 780000,
+        "mithril": 1000
+      },
+      "up_time": 594000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "13": {
+      "up_price": {
+        "oil": 800000,
+        "mithril": 1000
+      },
+      "up_time": 597600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "14": {
+      "up_price": {
+        "oil": 820000,
+        "mithril": 2000
+      },
+      "up_time": 601200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "15": {
+      "up_price": {
+        "oil": 840000,
+        "mithril": 2000
+      },
+      "up_time": 604800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "16": {
+      "up_price": {
+        "oil": 860000,
+        "mithril": 2000
+      },
+      "up_time": 608400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "17": {
+      "up_price": {
+        "oil": 880000,
+        "mithril": 2000
+      },
+      "up_time": 612000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "18": {
+      "up_price": {
+        "oil": 900000,
+        "mithril": 5000
+      },
+      "up_time": 615600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "19": {
+      "up_price": {
+        "oil": 920000,
+        "mithril": 5000
+      },
+      "up_time": 619200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "20": {
+      "up_price": {
+        "oil": 940000,
+        "mithril": 5000
+      },
+      "up_time": 622800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "21": {
+      "up_price": {
+        "oil": 960000,
+        "mithril": 5000
+      },
+      "up_time": 626400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "22": {
+      "up_price": {
+        "oil": 980000,
+        "mithril": 10000
+      },
+      "up_time": 630000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "23": {
+      "up_price": {
+        "oil": 1000000,
+        "mithril": 10000
+      },
+      "up_time": 633600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "24": {
+      "up_price": {
+        "oil": 1020000,
+        "mithril": 10000
+      },
+      "up_time": 637200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "25": {
+      "up_price": {
+        "oil": 1040000,
+        "mithril": 10000
+      },
+      "up_time": 640800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "26": {
+      "up_price": {
+        "oil": 1060000,
+        "mithril": 15000
+      },
+      "up_time": 644400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "27": {
+      "up_price": {
+        "oil": 1080000,
+        "mithril": 15000
+      },
+      "up_time": 648000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "28": {
+      "up_price": {
+        "oil": 1100000,
+        "mithril": 15000
+      },
+      "up_time": 651600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "29": {
+      "up_price": {
+        "oil": 1120000,
+        "mithril": 15000
+      },
+      "up_time": 655200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "30": {
+      "up_price": {
+        "oil": 1140000,
+        "mithril": 20000
+      },
+      "up_time": 658800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "31": {
+      "up_price": {
+        "oil": 1160000,
+        "mithril": 20000
+      },
+      "up_time": 662400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "32": {
+      "up_price": {
+        "oil": 1180000,
+        "mithril": 20000
+      },
+      "up_time": 666000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "33": {
+      "up_price": {
+        "oil": 1200000,
+        "mithril": 20000
+      },
+      "up_time": 669600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "34": {
+      "up_price": {
+        "oil": 1220000,
+        "mithril": 25000
+      },
+      "up_time": 673200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "35": {
+      "up_price": {
+        "oil": 1240000,
+        "mithril": 25000
+      },
+      "up_time": 676800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "36": {
+      "up_price": {
+        "oil": 1260000,
+        "mithril": 25000
+      },
+      "up_time": 680400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "37": {
+      "up_price": {
+        "oil": 1280000,
+        "mithril": 25000
+      },
+      "up_time": 684000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "38": {
+      "up_price": {
+        "oil": 1290000,
+        "mithril": 30000
+      },
+      "up_time": 687600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "39": {
+      "up_price": {
+        "oil": 1300000,
+        "mithril": 30000
+      },
+      "up_time": 691200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "40": {
+      "up_price": {
+        "oil": 1340000,
+        "mithril": 30000
+      },
+      "up_time": 694800,
+      "model_level": 3,
+      "can_buy": true
+    }
+  },
+  "un_golem": {
+    "1": {
+      "up_price": {
+        "oil": 4500
+      },
+      "up_time": 10800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 185000
+      },
+      "up_time": 216000,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 385000
+      },
+      "up_time": 432000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 525000
+      },
+      "up_time": 604800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 689500
+      },
+      "up_time": 691200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 730000,
+        "mithril": 500
+      },
+      "up_time": 694800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 770000,
+        "mithril": 500
+      },
+      "up_time": 698400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 810000,
+        "mithril": 500
+      },
+      "up_time": 702000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "9": {
+      "up_price": {
+        "oil": 850000,
+        "mithril": 1000
+      },
+      "up_time": 705600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "10": {
+      "up_price": {
+        "oil": 890000,
+        "mithril": 1000
+      },
+      "up_time": 709200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "11": {
+      "up_price": {
+        "oil": 930000,
+        "mithril": 1000
+      },
+      "up_time": 712800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "12": {
+      "up_price": {
+        "oil": 970000,
+        "mithril": 1000
+      },
+      "up_time": 716400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "13": {
+      "up_price": {
+        "oil": 1010000,
+        "mithril": 2000
+      },
+      "up_time": 720000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "14": {
+      "up_price": {
+        "oil": 1050000,
+        "mithril": 2000
+      },
+      "up_time": 723600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "15": {
+      "up_price": {
+        "oil": 1090000,
+        "mithril": 2000
+      },
+      "up_time": 727200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "16": {
+      "up_price": {
+        "oil": 1130000,
+        "mithril": 2000
+      },
+      "up_time": 730800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "17": {
+      "up_price": {
+        "oil": 1170000,
+        "mithril": 5000
+      },
+      "up_time": 734400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "18": {
+      "up_price": {
+        "oil": 1210000,
+        "mithril": 5000
+      },
+      "up_time": 738000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "19": {
+      "up_price": {
+        "oil": 1250000,
+        "mithril": 5000
+      },
+      "up_time": 741600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "20": {
+      "up_price": {
+        "oil": 1290000,
+        "mithril": 5000
+      },
+      "up_time": 745200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "21": {
+      "up_price": {
+        "oil": 1330000,
+        "mithril": 10000
+      },
+      "up_time": 748800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "22": {
+      "up_price": {
+        "oil": 1370000,
+        "mithril": 10000
+      },
+      "up_time": 752400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "23": {
+      "up_price": {
+        "oil": 1410000,
+        "mithril": 10000
+      },
+      "up_time": 756000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "24": {
+      "up_price": {
+        "oil": 1450000,
+        "mithril": 10000
+      },
+      "up_time": 759600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "25": {
+      "up_price": {
+        "oil": 1490000,
+        "mithril": 15000
+      },
+      "up_time": 763200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "26": {
+      "up_price": {
+        "oil": 1530000,
+        "mithril": 15000
+      },
+      "up_time": 766800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "27": {
+      "up_price": {
+        "oil": 1570000,
+        "mithril": 15000
+      },
+      "up_time": 770400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "28": {
+      "up_price": {
+        "oil": 1610000,
+        "mithril": 15000
+      },
+      "up_time": 774000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "29": {
+      "up_price": {
+        "oil": 1650000,
+        "mithril": 20000
+      },
+      "up_time": 777600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "30": {
+      "up_price": {
+        "oil": 1690000,
+        "mithril": 20000
+      },
+      "up_time": 781200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "31": {
+      "up_price": {
+        "oil": 1730000,
+        "mithril": 20000
+      },
+      "up_time": 784800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "32": {
+      "up_price": {
+        "oil": 1770000,
+        "mithril": 20000
+      },
+      "up_time": 788400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "33": {
+      "up_price": {
+        "oil": 1810000,
+        "mithril": 25000
+      },
+      "up_time": 792000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "34": {
+      "up_price": {
+        "oil": 1850000,
+        "mithril": 25000
+      },
+      "up_time": 795600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "35": {
+      "up_price": {
+        "oil": 1890000,
+        "mithril": 25000
+      },
+      "up_time": 799200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "36": {
+      "up_price": {
+        "oil": 1930000,
+        "mithril": 25000
+      },
+      "up_time": 802800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "37": {
+      "up_price": {
+        "oil": 1970000,
+        "mithril": 30000
+      },
+      "up_time": 806400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "38": {
+      "up_price": {
+        "oil": 2010000,
+        "mithril": 30000
+      },
+      "up_time": 810000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "39": {
+      "up_price": {
+        "oil": 2050000,
+        "mithril": 30000
+      },
+      "up_time": 813600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "40": {
+      "up_price": {
+        "oil": 2090000,
+        "mithril": 30000
+      },
+      "up_time": 817200,
+      "model_level": 3,
+      "can_buy": true
+    }
+  },
+  "un_healer": {
+    "1": {
+      "up_price": {
+        "oil": 10500
+      },
+      "up_time": 18000,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 37500
+      },
+      "up_time": 115200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 124500
+      },
+      "up_time": 432000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 435000
+      },
+      "up_time": 518400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 460000,
+        "mithril": 500
+      },
+      "up_time": 522000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 485000,
+        "mithril": 500
+      },
+      "up_time": 525600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 510000,
+        "mithril": 500
+      },
+      "up_time": 529200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 535000,
+        "mithril": 500
+      },
+      "up_time": 532800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "9": {
+      "up_price": {
+        "oil": 560000,
+        "mithril": 1000
+      },
+      "up_time": 536400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "10": {
+      "up_price": {
+        "oil": 585000,
+        "mithril": 1000
+      },
+      "up_time": 540000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "11": {
+      "up_price": {
+        "oil": 610000,
+        "mithril": 1000
+      },
+      "up_time": 543600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "12": {
+      "up_price": {
+        "oil": 635000,
+        "mithril": 1000
+      },
+      "up_time": 547200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "13": {
+      "up_price": {
+        "oil": 660000,
+        "mithril": 2000
+      },
+      "up_time": 550800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "14": {
+      "up_price": {
+        "oil": 685000,
+        "mithril": 2000
+      },
+      "up_time": 554400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "15": {
+      "up_price": {
+        "oil": 710000,
+        "mithril": 2000
+      },
+      "up_time": 558000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "16": {
+      "up_price": {
+        "oil": 735000,
+        "mithril": 2000
+      },
+      "up_time": 561600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "17": {
+      "up_price": {
+        "oil": 760000,
+        "mithril": 5000
+      },
+      "up_time": 565200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "18": {
+      "up_price": {
+        "oil": 785000,
+        "mithril": 5000
+      },
+      "up_time": 568800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "19": {
+      "up_price": {
+        "oil": 810000,
+        "mithril": 5000
+      },
+      "up_time": 572400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "20": {
+      "up_price": {
+        "oil": 835000,
+        "mithril": 5000
+      },
+      "up_time": 576000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "21": {
+      "up_price": {
+        "oil": 860000,
+        "mithril": 10000
+      },
+      "up_time": 579600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "22": {
+      "up_price": {
+        "oil": 885000,
+        "mithril": 10000
+      },
+      "up_time": 583200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "23": {
+      "up_price": {
+        "oil": 910000,
+        "mithril": 10000
+      },
+      "up_time": 586800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "24": {
+      "up_price": {
+        "oil": 935000,
+        "mithril": 10000
+      },
+      "up_time": 590400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "25": {
+      "up_price": {
+        "oil": 960000,
+        "mithril": 15000
+      },
+      "up_time": 594000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "26": {
+      "up_price": {
+        "oil": 985000,
+        "mithril": 15000
+      },
+      "up_time": 597600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "27": {
+      "up_price": {
+        "oil": 1010000,
+        "mithril": 15000
+      },
+      "up_time": 601200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "28": {
+      "up_price": {
+        "oil": 1035000,
+        "mithril": 15000
+      },
+      "up_time": 604800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "29": {
+      "up_price": {
+        "oil": 1060000,
+        "mithril": 20000
+      },
+      "up_time": 608400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "30": {
+      "up_price": {
+        "oil": 1085000,
+        "mithril": 20000
+      },
+      "up_time": 612000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "31": {
+      "up_price": {
+        "oil": 1110000,
+        "mithril": 20000
+      },
+      "up_time": 615600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "32": {
+      "up_price": {
+        "oil": 1135000,
+        "mithril": 20000
+      },
+      "up_time": 619200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "33": {
+      "up_price": {
+        "oil": 1160000,
+        "mithril": 25000
+      },
+      "up_time": 622800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "34": {
+      "up_price": {
+        "oil": 1185000,
+        "mithril": 25000
+      },
+      "up_time": 626400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "35": {
+      "up_price": {
+        "oil": 1210000,
+        "mithril": 25000
+      },
+      "up_time": 630000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "36": {
+      "up_price": {
+        "oil": 1235000,
+        "mithril": 25000
+      },
+      "up_time": 633600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "37": {
+      "up_price": {
+        "oil": 1260000,
+        "mithril": 30000
+      },
+      "up_time": 637200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "38": {
+      "up_price": {
+        "oil": 1285000,
+        "mithril": 30000
+      },
+      "up_time": 640800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "39": {
+      "up_price": {
+        "oil": 1310000,
+        "mithril": 30000
+      },
+      "up_time": 644400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "40": {
+      "up_price": {
+        "oil": 1335000,
+        "mithril": 30000
+      },
+      "up_time": 648000,
+      "model_level": 2,
+      "can_buy": true
+    }
+  },
+  "un_hero": {
+    "0": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "1": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "2": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "3": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "4": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "5": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "6": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "7": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "8": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "9": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "10": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "11": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "12": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "13": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "14": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "15": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "16": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "17": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "18": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "19": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "20": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "21": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "22": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "23": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "24": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "25": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "26": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "27": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "28": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "29": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "30": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "31": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "32": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "33": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "34": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "35": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "36": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "37": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "38": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "39": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "40": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_hero_jaina": {
+    "0": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "1": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "2": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "3": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "4": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "5": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "6": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "7": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "8": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "9": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "10": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "11": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "12": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "13": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "14": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "15": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "16": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "17": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "18": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "19": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "20": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "21": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "22": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "23": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "24": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "25": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "26": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "27": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "28": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "29": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "30": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "31": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "32": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "33": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "34": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "35": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "36": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "37": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "38": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "39": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "40": {
+      "up_price": {
+        "gold": 100
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_motocycle": {
+    "1": {
+      "up_price": {
+        "oil": 1000
+      },
+      "up_time": 900,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 1000
+      },
+      "up_time": 72000,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 10000
+      },
+      "up_time": 172800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 95000
+      },
+      "up_time": 345600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 250000
+      },
+      "up_time": 518400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 465000
+      },
+      "up_time": 604800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 1000000,
+        "mithril": 500
+      },
+      "up_time": 691200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 1060000,
+        "mithril": 500
+      },
+      "up_time": 694800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "9": {
+      "up_price": {
+        "oil": 1120000,
+        "mithril": 500
+      },
+      "up_time": 698400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "10": {
+      "up_price": {
+        "oil": 1180000,
+        "mithril": 500
+      },
+      "up_time": 702000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "11": {
+      "up_price": {
+        "oil": 1240000,
+        "mithril": 1000
+      },
+      "up_time": 705600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "12": {
+      "up_price": {
+        "oil": 1300000,
+        "mithril": 1000
+      },
+      "up_time": 709200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "13": {
+      "up_price": {
+        "oil": 1360000,
+        "mithril": 1000
+      },
+      "up_time": 712800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "14": {
+      "up_price": {
+        "oil": 1420000,
+        "mithril": 1000
+      },
+      "up_time": 716400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "15": {
+      "up_price": {
+        "oil": 1480000,
+        "mithril": 2000
+      },
+      "up_time": 720000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "16": {
+      "up_price": {
+        "oil": 1540000,
+        "mithril": 2000
+      },
+      "up_time": 723600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "17": {
+      "up_price": {
+        "oil": 1600000,
+        "mithril": 2000
+      },
+      "up_time": 727200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "18": {
+      "up_price": {
+        "oil": 1660000,
+        "mithril": 2000
+      },
+      "up_time": 730800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "19": {
+      "up_price": {
+        "oil": 1720000,
+        "mithril": 5000
+      },
+      "up_time": 734400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "20": {
+      "up_price": {
+        "oil": 1780000,
+        "mithril": 5000
+      },
+      "up_time": 738000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "21": {
+      "up_price": {
+        "oil": 1840000,
+        "mithril": 5000
+      },
+      "up_time": 741600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "22": {
+      "up_price": {
+        "oil": 1900000,
+        "mithril": 5000
+      },
+      "up_time": 745200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "23": {
+      "up_price": {
+        "oil": 1960000,
+        "mithril": 10000
+      },
+      "up_time": 748800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "24": {
+      "up_price": {
+        "oil": 2020000,
+        "mithril": 10000
+      },
+      "up_time": 752400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "25": {
+      "up_price": {
+        "oil": 2080000,
+        "mithril": 10000
+      },
+      "up_time": 756000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "26": {
+      "up_price": {
+        "oil": 2140000,
+        "mithril": 10000
+      },
+      "up_time": 759600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "27": {
+      "up_price": {
+        "oil": 2200000,
+        "mithril": 15000
+      },
+      "up_time": 763200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "28": {
+      "up_price": {
+        "oil": 2260000,
+        "mithril": 15000
+      },
+      "up_time": 766800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "29": {
+      "up_price": {
+        "oil": 2320000,
+        "mithril": 15000
+      },
+      "up_time": 770400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "30": {
+      "up_price": {
+        "oil": 2380000,
+        "mithril": 15000
+      },
+      "up_time": 774000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "31": {
+      "up_price": {
+        "oil": 2440000,
+        "mithril": 20000
+      },
+      "up_time": 777600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "32": {
+      "up_price": {
+        "oil": 2500000,
+        "mithril": 20000
+      },
+      "up_time": 781200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "33": {
+      "up_price": {
+        "oil": 2560000,
+        "mithril": 20000
+      },
+      "up_time": 784800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "34": {
+      "up_price": {
+        "oil": 2620000,
+        "mithril": 20000
+      },
+      "up_time": 788400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "35": {
+      "up_price": {
+        "oil": 2680000,
+        "mithril": 25000
+      },
+      "up_time": 792000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "36": {
+      "up_price": {
+        "oil": 2740000,
+        "mithril": 25000
+      },
+      "up_time": 795600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "37": {
+      "up_price": {
+        "oil": 2800000,
+        "mithril": 25000
+      },
+      "up_time": 799200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "38": {
+      "up_price": {
+        "oil": 2860000,
+        "mithril": 25000
+      },
+      "up_time": 802800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "39": {
+      "up_price": {
+        "oil": 2920000,
+        "mithril": 30000
+      },
+      "up_time": 806400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "40": {
+      "up_price": {
+        "oil": 2980000,
+        "mithril": 30000
+      },
+      "up_time": 810000,
+      "model_level": 3,
+      "can_buy": true
+    }
+  },
+  "un_motocycle_elite": {
+    "1": {
+      "up_price": {
+        "oil": 1000
+      },
+      "up_time": 900,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 575000
+      },
+      "up_time": 72000,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 1050000
+      },
+      "up_time": 172800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 1525000
+      },
+      "up_time": 345600,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 2100000,
+        "mithril": 10000
+      },
+      "up_time": 518400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 3000000,
+        "mithril": 18000
+      },
+      "up_time": 604800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 465000
+      },
+      "up_time": 604800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 1000000
+      },
+      "up_time": 691200,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_motocycle_mithril": {
+    "1": {
+      "up_price": {
+        "oil": 1000
+      },
+      "up_time": 900,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 785000
+      },
+      "up_time": 72000,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 1150000,
+        "mithril": 8000
+      },
+      "up_time": 172800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 1825000,
+        "mithril": 12000
+      },
+      "up_time": 345600,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 2500000,
+        "mithril": 16000
+      },
+      "up_time": 518400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 3300000,
+        "mithril": 20000
+      },
+      "up_time": 604800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 1000000
+      },
+      "up_time": 691200,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_raid_healer": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "2": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "3": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "4": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "5": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "6": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "7": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "8": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_raid_troll": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "2": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "3": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "4": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "5": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "6": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_raid_warrior": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "2": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "3": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "4": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "5": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "6": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "7": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "8": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "9": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "10": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "11": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "12": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "13": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_sentry": {
+    "1": {
+      "up_price": {
+        "oil": 500
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "2": {
+      "up_price": {
+        "oil": 8000
+      },
+      "up_time": 21600,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "3": {
+      "up_price": {
+        "oil": 24000
+      },
+      "up_time": 86400,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "4": {
+      "up_price": {
+        "oil": 72500
+      },
+      "up_time": 259200,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "5": {
+      "up_price": {
+        "oil": 222500
+      },
+      "up_time": 432000,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "6": {
+      "up_price": {
+        "oil": 500000
+      },
+      "up_time": 518400,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "7": {
+      "up_price": {
+        "oil": 635000
+      },
+      "up_time": 604800,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_sniper": {
+    "1": {
+      "up_price": {
+        "oil": 500
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 500
+      },
+      "up_time": 21600,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 5000
+      },
+      "up_time": 86400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 35000
+      },
+      "up_time": 259200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 125000
+      },
+      "up_time": 432000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 375000
+      },
+      "up_time": 561600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 635000,
+        "mithril": 500
+      },
+      "up_time": 604800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 675000,
+        "mithril": 500
+      },
+      "up_time": 608400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "9": {
+      "up_price": {
+        "oil": 715000,
+        "mithril": 500
+      },
+      "up_time": 612000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "10": {
+      "up_price": {
+        "oil": 755000,
+        "mithril": 500
+      },
+      "up_time": 615600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "11": {
+      "up_price": {
+        "oil": 795000,
+        "mithril": 500
+      },
+      "up_time": 619200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "12": {
+      "up_price": {
+        "oil": 835000,
+        "mithril": 1000
+      },
+      "up_time": 622800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "13": {
+      "up_price": {
+        "oil": 875000,
+        "mithril": 1000
+      },
+      "up_time": 626400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "14": {
+      "up_price": {
+        "oil": 915000,
+        "mithril": 1000
+      },
+      "up_time": 630000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "15": {
+      "up_price": {
+        "oil": 955000,
+        "mithril": 1000
+      },
+      "up_time": 633600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "16": {
+      "up_price": {
+        "oil": 995000,
+        "mithril": 2000
+      },
+      "up_time": 637200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "17": {
+      "up_price": {
+        "oil": 1035000,
+        "mithril": 2000
+      },
+      "up_time": 640800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "18": {
+      "up_price": {
+        "oil": 1075000,
+        "mithril": 2000
+      },
+      "up_time": 644400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "19": {
+      "up_price": {
+        "oil": 1115000,
+        "mithril": 2000
+      },
+      "up_time": 648000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "20": {
+      "up_price": {
+        "oil": 1155000,
+        "mithril": 5000
+      },
+      "up_time": 651600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "21": {
+      "up_price": {
+        "oil": 1195000,
+        "mithril": 5000
+      },
+      "up_time": 655200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "22": {
+      "up_price": {
+        "oil": 1235000,
+        "mithril": 5000
+      },
+      "up_time": 658800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "23": {
+      "up_price": {
+        "oil": 1275000,
+        "mithril": 5000
+      },
+      "up_time": 662400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "24": {
+      "up_price": {
+        "oil": 1315000,
+        "mithril": 10000
+      },
+      "up_time": 666000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "25": {
+      "up_price": {
+        "oil": 1355000,
+        "mithril": 10000
+      },
+      "up_time": 669600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "26": {
+      "up_price": {
+        "oil": 1395000,
+        "mithril": 10000
+      },
+      "up_time": 673200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "27": {
+      "up_price": {
+        "oil": 1435000,
+        "mithril": 10000
+      },
+      "up_time": 676800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "28": {
+      "up_price": {
+        "oil": 1475000,
+        "mithril": 15000
+      },
+      "up_time": 680400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "29": {
+      "up_price": {
+        "oil": 1515000,
+        "mithril": 15000
+      },
+      "up_time": 684000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "30": {
+      "up_price": {
+        "oil": 1555000,
+        "mithril": 15000
+      },
+      "up_time": 687600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "31": {
+      "up_price": {
+        "oil": 1595000,
+        "mithril": 15000
+      },
+      "up_time": 691200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "32": {
+      "up_price": {
+        "oil": 1635000,
+        "mithril": 20000
+      },
+      "up_time": 694800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "33": {
+      "up_price": {
+        "oil": 1675000,
+        "mithril": 20000
+      },
+      "up_time": 698400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "34": {
+      "up_price": {
+        "oil": 1715000,
+        "mithril": 20000
+      },
+      "up_time": 702000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "35": {
+      "up_price": {
+        "oil": 1755000,
+        "mithril": 25000
+      },
+      "up_time": 705600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "36": {
+      "up_price": {
+        "oil": 1795000,
+        "mithril": 25000
+      },
+      "up_time": 709200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "37": {
+      "up_price": {
+        "oil": 1835000,
+        "mithril": 25000
+      },
+      "up_time": 712800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "38": {
+      "up_price": {
+        "oil": 1875000,
+        "mithril": 25000
+      },
+      "up_time": 716400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "39": {
+      "up_price": {
+        "oil": 1915000,
+        "mithril": 30000
+      },
+      "up_time": 720000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "40": {
+      "up_price": {
+        "oil": 1955000,
+        "mithril": 30000
+      },
+      "up_time": 723600,
+      "model_level": 3,
+      "can_buy": true
+    }
+  },
+  "un_sniper_elite": {
+    "1": {
+      "up_price": {
+        "oil": 500
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 175000
+      },
+      "up_time": 21600,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 875000
+      },
+      "up_time": 86400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 1250000
+      },
+      "up_time": 259200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 1800000,
+        "mithril": 8000
+      },
+      "up_time": 432000,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 2000000,
+        "mithril": 9000
+      },
+      "up_time": 518400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 375000
+      },
+      "up_time": 561600,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 635000
+      },
+      "up_time": 604800,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_sniper_mithril": {
+    "1": {
+      "up_price": {
+        "oil": 500
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 275000
+      },
+      "up_time": 21600,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 1175000
+      },
+      "up_time": 86400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 1650000
+      },
+      "up_time": 259200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 2100000,
+        "mithril": 10000
+      },
+      "up_time": 432000,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 2400000,
+        "mithril": 15000
+      },
+      "up_time": 518400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 375000
+      },
+      "up_time": 561600,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 635000
+      },
+      "up_time": 604800,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_swarm": {
+    "1": {
+      "up_price": {
+        "oil": 2000
+      },
+      "up_time": 10800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 9000
+      },
+      "up_time": 86400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 30500
+      },
+      "up_time": 172800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 98500
+      },
+      "up_time": 432000,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 343500
+      },
+      "up_time": 518400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 370000,
+        "mithril": 500
+      },
+      "up_time": 522000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 390000,
+        "mithril": 500
+      },
+      "up_time": 525600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 410000,
+        "mithril": 500
+      },
+      "up_time": 529200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "9": {
+      "up_price": {
+        "oil": 430000,
+        "mithril": 500
+      },
+      "up_time": 532800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "10": {
+      "up_price": {
+        "oil": 450000,
+        "mithril": 500
+      },
+      "up_time": 536400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "11": {
+      "up_price": {
+        "oil": 470000,
+        "mithril": 1000
+      },
+      "up_time": 540000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "12": {
+      "up_price": {
+        "oil": 490000,
+        "mithril": 1000
+      },
+      "up_time": 543600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "13": {
+      "up_price": {
+        "oil": 510000,
+        "mithril": 1000
+      },
+      "up_time": 547200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "14": {
+      "up_price": {
+        "oil": 530000,
+        "mithril": 1000
+      },
+      "up_time": 550800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "15": {
+      "up_price": {
+        "oil": 550000,
+        "mithril": 2000
+      },
+      "up_time": 554400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "16": {
+      "up_price": {
+        "oil": 570000,
+        "mithril": 2000
+      },
+      "up_time": 558000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "17": {
+      "up_price": {
+        "oil": 590000,
+        "mithril": 2000
+      },
+      "up_time": 561600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "18": {
+      "up_price": {
+        "oil": 610000,
+        "mithril": 2000
+      },
+      "up_time": 565200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "19": {
+      "up_price": {
+        "oil": 630000,
+        "mithril": 5000
+      },
+      "up_time": 568800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "20": {
+      "up_price": {
+        "oil": 650000,
+        "mithril": 5000
+      },
+      "up_time": 572400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "21": {
+      "up_price": {
+        "oil": 670000,
+        "mithril": 5000
+      },
+      "up_time": 576000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "22": {
+      "up_price": {
+        "oil": 690000,
+        "mithril": 5000
+      },
+      "up_time": 579600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "23": {
+      "up_price": {
+        "oil": 710000,
+        "mithril": 10000
+      },
+      "up_time": 583200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "24": {
+      "up_price": {
+        "oil": 730000,
+        "mithril": 10000
+      },
+      "up_time": 586800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "25": {
+      "up_price": {
+        "oil": 750000,
+        "mithril": 10000
+      },
+      "up_time": 590400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "26": {
+      "up_price": {
+        "oil": 770000,
+        "mithril": 10000
+      },
+      "up_time": 594000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "27": {
+      "up_price": {
+        "oil": 790000,
+        "mithril": 15000
+      },
+      "up_time": 597600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "28": {
+      "up_price": {
+        "oil": 810000,
+        "mithril": 15000
+      },
+      "up_time": 601200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "29": {
+      "up_price": {
+        "oil": 830000,
+        "mithril": 15000
+      },
+      "up_time": 604800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "30": {
+      "up_price": {
+        "oil": 850000,
+        "mithril": 15000
+      },
+      "up_time": 608400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "31": {
+      "up_price": {
+        "oil": 870000,
+        "mithril": 20000
+      },
+      "up_time": 612000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "32": {
+      "up_price": {
+        "oil": 890000,
+        "mithril": 20000
+      },
+      "up_time": 615600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "33": {
+      "up_price": {
+        "oil": 910000,
+        "mithril": 20000
+      },
+      "up_time": 619200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "34": {
+      "up_price": {
+        "oil": 930000,
+        "mithril": 20000
+      },
+      "up_time": 622800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "35": {
+      "up_price": {
+        "oil": 950000,
+        "mithril": 25000
+      },
+      "up_time": 626400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "36": {
+      "up_price": {
+        "oil": 970000,
+        "mithril": 25000
+      },
+      "up_time": 630000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "37": {
+      "up_price": {
+        "oil": 990000,
+        "mithril": 25000
+      },
+      "up_time": 633600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "38": {
+      "up_price": {
+        "oil": 1010000,
+        "mithril": 25000
+      },
+      "up_time": 637200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "39": {
+      "up_price": {
+        "oil": 1030000,
+        "mithril": 30000
+      },
+      "up_time": 640800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "40": {
+      "up_price": {
+        "oil": 1050000,
+        "mithril": 30000
+      },
+      "up_time": 644400,
+      "model_level": 3,
+      "can_buy": true
+    }
+  },
+  "un_swarm_elite": {
+    "1": {
+      "up_price": {
+        "oil": 2000
+      },
+      "up_time": 10800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 1500000
+      },
+      "up_time": 86400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 1900000,
+        "mithril": 9000
+      },
+      "up_time": 259200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 2400000,
+        "mithril": 12000
+      },
+      "up_time": 345600,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 3000000,
+        "mithril": 18000
+      },
+      "up_time": 604800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 343500
+      },
+      "up_time": 518400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 715000
+      },
+      "up_time": 604800,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "8": {
+      "up_price": {
+        "oil": 1250000
+      },
+      "up_time": 691200,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_swarm_mithril": {
+    "1": {
+      "up_price": {
+        "oil": 2000
+      },
+      "up_time": 10800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 1850000
+      },
+      "up_time": 86400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 2400000,
+        "mithril": 12000
+      },
+      "up_time": 259200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 2800000,
+        "mithril": 15000
+      },
+      "up_time": 345600,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 3500000,
+        "mithril": 20000
+      },
+      "up_time": 691200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 343500
+      },
+      "up_time": 518400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 715000
+      },
+      "up_time": 604800,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "8": {
+      "up_price": {
+        "oil": 1250000
+      },
+      "up_time": 691200,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_tank": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 432000,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 900000,
+        "mithril": 5000
+      },
+      "up_time": 709200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 1600000,
+        "mithril": 15000
+      },
+      "up_time": 781200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 1800,
+      "model_level": 2,
+      "can_buy": false
+    },
+    "5": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 1800,
+      "model_level": 2,
+      "can_buy": false
+    },
+    "6": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 1800,
+      "model_level": 2,
+      "can_buy": false
+    },
+    "7": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 1800,
+      "model_level": 2,
+      "can_buy": false
+    }
+  },
+  "un_troll": {
+    "1": {
+      "up_price": {
+        "oil": 4500
+      },
+      "up_time": 10800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 15000
+      },
+      "up_time": 86400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 52500
+      },
+      "up_time": 172800,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 150000
+      },
+      "up_time": 345600,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 350000
+      },
+      "up_time": 518400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 370000,
+        "mithril": 500
+      },
+      "up_time": 522000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 390000,
+        "mithril": 500
+      },
+      "up_time": 525600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 410000,
+        "mithril": 500
+      },
+      "up_time": 529200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "9": {
+      "up_price": {
+        "oil": 430000,
+        "mithril": 500
+      },
+      "up_time": 532800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "10": {
+      "up_price": {
+        "oil": 450000,
+        "mithril": 500
+      },
+      "up_time": 536400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "11": {
+      "up_price": {
+        "oil": 470000,
+        "mithril": 1000
+      },
+      "up_time": 540000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "12": {
+      "up_price": {
+        "oil": 490000,
+        "mithril": 1000
+      },
+      "up_time": 543600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "13": {
+      "up_price": {
+        "oil": 510000,
+        "mithril": 1000
+      },
+      "up_time": 547200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "14": {
+      "up_price": {
+        "oil": 530000,
+        "mithril": 1000
+      },
+      "up_time": 550800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "15": {
+      "up_price": {
+        "oil": 550000,
+        "mithril": 2000
+      },
+      "up_time": 554400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "16": {
+      "up_price": {
+        "oil": 570000,
+        "mithril": 2000
+      },
+      "up_time": 558000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "17": {
+      "up_price": {
+        "oil": 590000,
+        "mithril": 2000
+      },
+      "up_time": 561600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "18": {
+      "up_price": {
+        "oil": 610000,
+        "mithril": 2000
+      },
+      "up_time": 565200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "19": {
+      "up_price": {
+        "oil": 630000,
+        "mithril": 5000
+      },
+      "up_time": 568800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "20": {
+      "up_price": {
+        "oil": 650000,
+        "mithril": 5000
+      },
+      "up_time": 572400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "21": {
+      "up_price": {
+        "oil": 670000,
+        "mithril": 5000
+      },
+      "up_time": 576000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "22": {
+      "up_price": {
+        "oil": 690000,
+        "mithril": 5000
+      },
+      "up_time": 579600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "23": {
+      "up_price": {
+        "oil": 710000,
+        "mithril": 10000
+      },
+      "up_time": 583200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "24": {
+      "up_price": {
+        "oil": 730000,
+        "mithril": 10000
+      },
+      "up_time": 586800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "25": {
+      "up_price": {
+        "oil": 750000,
+        "mithril": 10000
+      },
+      "up_time": 590400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "26": {
+      "up_price": {
+        "oil": 770000,
+        "mithril": 10000
+      },
+      "up_time": 594000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "27": {
+      "up_price": {
+        "oil": 790000,
+        "mithril": 15000
+      },
+      "up_time": 597600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "28": {
+      "up_price": {
+        "oil": 810000,
+        "mithril": 15000
+      },
+      "up_time": 601200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "29": {
+      "up_price": {
+        "oil": 830000,
+        "mithril": 15000
+      },
+      "up_time": 604800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "30": {
+      "up_price": {
+        "oil": 850000,
+        "mithril": 15000
+      },
+      "up_time": 608400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "31": {
+      "up_price": {
+        "oil": 870000,
+        "mithril": 20000
+      },
+      "up_time": 612000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "32": {
+      "up_price": {
+        "oil": 890000,
+        "mithril": 20000
+      },
+      "up_time": 615600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "33": {
+      "up_price": {
+        "oil": 910000,
+        "mithril": 20000
+      },
+      "up_time": 619200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "34": {
+      "up_price": {
+        "oil": 930000,
+        "mithril": 20000
+      },
+      "up_time": 622800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "35": {
+      "up_price": {
+        "oil": 950000,
+        "mithril": 25000
+      },
+      "up_time": 626400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "36": {
+      "up_price": {
+        "oil": 970000,
+        "mithril": 25000
+      },
+      "up_time": 630000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "37": {
+      "up_price": {
+        "oil": 990000,
+        "mithril": 25000
+      },
+      "up_time": 633600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "38": {
+      "up_price": {
+        "oil": 1010000,
+        "mithril": 25000
+      },
+      "up_time": 637200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "39": {
+      "up_price": {
+        "oil": 1030000,
+        "mithril": 30000
+      },
+      "up_time": 640800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "40": {
+      "up_price": {
+        "oil": 1050000,
+        "mithril": 30000
+      },
+      "up_time": 644400,
+      "model_level": 3,
+      "can_buy": true
+    }
+  },
+  "un_troll_elite": {
+    "1": {
+      "up_price": {
+        "oil": 4500
+      },
+      "up_time": 10800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 785000
+      },
+      "up_time": 86400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 1545000
+      },
+      "up_time": 172800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 2200000,
+        "mithril": 10000
+      },
+      "up_time": 432000,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 2500000,
+        "mithril": 15000
+      },
+      "up_time": 518400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 2800000,
+        "mithril": 20000
+      },
+      "up_time": 648000,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 3000000,
+        "mithril": 25000
+      },
+      "up_time": 691200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 1125500
+      },
+      "up_time": 691200,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_troll_mithril": {
+    "1": {
+      "up_price": {
+        "oil": 4500
+      },
+      "up_time": 10800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 985000
+      },
+      "up_time": 86400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 1825000
+      },
+      "up_time": 172800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 2400000,
+        "mithril": 15000
+      },
+      "up_time": 432000,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 2900000,
+        "mithril": 20000
+      },
+      "up_time": 604800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 3000000,
+        "mithril": 25000
+      },
+      "up_time": 691200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 3500000,
+        "mithril": 30000
+      },
+      "up_time": 734400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 1125500
+      },
+      "up_time": 691200,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_warrior": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 300,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 1000
+      },
+      "up_time": 86400,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 25000
+      },
+      "up_time": 259200,
+      "model_level": 2,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 100000
+      },
+      "up_time": 432000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 315000
+      },
+      "up_time": 518400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 625000,
+        "mithril": 500
+      },
+      "up_time": 604800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 665000,
+        "mithril": 500
+      },
+      "up_time": 608400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "9": {
+      "up_price": {
+        "oil": 705000,
+        "mithril": 500
+      },
+      "up_time": 612000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "10": {
+      "up_price": {
+        "oil": 745000,
+        "mithril": 500
+      },
+      "up_time": 615600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "11": {
+      "up_price": {
+        "oil": 785000,
+        "mithril": 500
+      },
+      "up_time": 619200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "12": {
+      "up_price": {
+        "oil": 825000,
+        "mithril": 1000
+      },
+      "up_time": 622800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "13": {
+      "up_price": {
+        "oil": 865000,
+        "mithril": 1000
+      },
+      "up_time": 626400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "14": {
+      "up_price": {
+        "oil": 905000,
+        "mithril": 1000
+      },
+      "up_time": 630000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "15": {
+      "up_price": {
+        "oil": 945000,
+        "mithril": 1000
+      },
+      "up_time": 633600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "16": {
+      "up_price": {
+        "oil": 985000,
+        "mithril": 2000
+      },
+      "up_time": 637200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "17": {
+      "up_price": {
+        "oil": 1025000,
+        "mithril": 2000
+      },
+      "up_time": 640800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "18": {
+      "up_price": {
+        "oil": 1065000,
+        "mithril": 2000
+      },
+      "up_time": 644400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "19": {
+      "up_price": {
+        "oil": 1105000,
+        "mithril": 2000
+      },
+      "up_time": 648000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "20": {
+      "up_price": {
+        "oil": 1145000,
+        "mithril": 5000
+      },
+      "up_time": 651600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "21": {
+      "up_price": {
+        "oil": 1185000,
+        "mithril": 5000
+      },
+      "up_time": 655200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "22": {
+      "up_price": {
+        "oil": 1225000,
+        "mithril": 5000
+      },
+      "up_time": 658800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "23": {
+      "up_price": {
+        "oil": 1265000,
+        "mithril": 5000
+      },
+      "up_time": 662400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "24": {
+      "up_price": {
+        "oil": 1305000,
+        "mithril": 10000
+      },
+      "up_time": 666000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "25": {
+      "up_price": {
+        "oil": 1345000,
+        "mithril": 10000
+      },
+      "up_time": 669600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "26": {
+      "up_price": {
+        "oil": 1385000,
+        "mithril": 10000
+      },
+      "up_time": 673200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "27": {
+      "up_price": {
+        "oil": 1425000,
+        "mithril": 10000
+      },
+      "up_time": 676800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "28": {
+      "up_price": {
+        "oil": 1465000,
+        "mithril": 15000
+      },
+      "up_time": 680400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "29": {
+      "up_price": {
+        "oil": 1505000,
+        "mithril": 15000
+      },
+      "up_time": 684000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "30": {
+      "up_price": {
+        "oil": 1545000,
+        "mithril": 15000
+      },
+      "up_time": 687600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "31": {
+      "up_price": {
+        "oil": 1585000,
+        "mithril": 20000
+      },
+      "up_time": 691200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "32": {
+      "up_price": {
+        "oil": 1625000,
+        "mithril": 20000
+      },
+      "up_time": 694800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "33": {
+      "up_price": {
+        "oil": 1665000,
+        "mithril": 20000
+      },
+      "up_time": 698400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "34": {
+      "up_price": {
+        "oil": 1705000,
+        "mithril": 20000
+      },
+      "up_time": 702000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "35": {
+      "up_price": {
+        "oil": 1745000,
+        "mithril": 25000
+      },
+      "up_time": 705600,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "36": {
+      "up_price": {
+        "oil": 1785000,
+        "mithril": 25000
+      },
+      "up_time": 709200,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "37": {
+      "up_price": {
+        "oil": 1825000,
+        "mithril": 25000
+      },
+      "up_time": 712800,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "38": {
+      "up_price": {
+        "oil": 1865000,
+        "mithril": 25000
+      },
+      "up_time": 716400,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "39": {
+      "up_price": {
+        "oil": 1905000,
+        "mithril": 30000
+      },
+      "up_time": 720000,
+      "model_level": 3,
+      "can_buy": true
+    },
+    "40": {
+      "up_price": {
+        "oil": 1945000,
+        "mithril": 30000
+      },
+      "up_time": 723600,
+      "model_level": 3,
+      "can_buy": true
+    }
+  },
+  "un_warrior_elite": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 100000
+      },
+      "up_time": 300,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 500000
+      },
+      "up_time": 86400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 750000
+      },
+      "up_time": 259200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 1500000,
+        "mithril": 6000
+      },
+      "up_time": 432000,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 2000000,
+        "mithril": 9000
+      },
+      "up_time": 518400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 2500000,
+        "mithril": 11000
+      },
+      "up_time": 561600,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 3000000,
+        "mithril": 20000
+      },
+      "up_time": 604800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "9": {
+      "up_price": {
+        "oil": 3000000,
+        "mithril": 20000
+      },
+      "up_time": 604800,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_warrior_mithril": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 250000
+      },
+      "up_time": 300,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 825000
+      },
+      "up_time": 86400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "4": {
+      "up_price": {
+        "oil": 1100000
+      },
+      "up_time": 259200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "5": {
+      "up_price": {
+        "oil": 1800000,
+        "mithril": 8000
+      },
+      "up_time": 432000,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "6": {
+      "up_price": {
+        "oil": 2200000,
+        "mithril": 14000
+      },
+      "up_time": 518400,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "7": {
+      "up_price": {
+        "oil": 2800000,
+        "mithril": 17000
+      },
+      "up_time": 604800,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "8": {
+      "up_price": {
+        "oil": 3300000,
+        "mithril": 23000
+      },
+      "up_time": 709200,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "9": {
+      "up_price": {
+        "oil": 3300000,
+        "mithril": 23000
+      },
+      "up_time": 709200,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_wizard": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 1800,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "2": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 1800,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "3": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 1800,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "4": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 1800,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "5": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 1800,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "6": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 1800,
+      "model_level": 1,
+      "can_buy": false
+    },
+    "7": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 1800,
+      "model_level": 1,
+      "can_buy": false
+    }
+  },
+  "un_zombie": {
+    "1": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "2": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": true
+    },
+    "3": {
+      "up_price": {
+        "oil": 250
+      },
+      "up_time": 60,
+      "model_level": 1,
+      "can_buy": true
+    }
+  }
+}

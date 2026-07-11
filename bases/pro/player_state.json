@@ -1,0 +1,529 @@
+{
+  "user_id": "a44aa367-a382-413c-910f-d3adbfa37f78",
+  "name": "forever young",
+  "avatar": "https://api.ok.ru/img/stub/user/male/128.png",
+  "profile_url": "https://ok.ru/profile/910426647961",
+  "level": 21,
+  "sex": "m",
+  "avatar_small": "https://api.ok.ru/img/stub/user/male/50.png",
+  "avatar_big": "https://api.ok.ru/img/stub/user/male/190.png",
+  "ratio": 18,
+  "troops": {
+    "un_warrior": 0,
+    "un_sniper": 0,
+    "un_motocycle": 0,
+    "un_troll": 50,
+    "un_dwarf": 0,
+    "un_tank": 0,
+    "un_disinfector": 0,
+    "un_fairy": 0,
+    "un_swarm": 0
+  },
+  "unit_levels": {
+    "un_troll_mithril": 2,
+    "sp_worker": 1,
+    "un_troll_elite": 2,
+    "un_warrior_mithril": 4,
+    "sp_fireball": 1,
+    "un_motocycle_mithril": 4,
+    "un_warrior_elite": 4,
+    "sp_worker_gold": 1,
+    "un_hero": 1,
+    "un_swarm_mithril": 1,
+    "sp_fog": 1,
+    "un_raid_troll": 1,
+    "un_hero_jaina": 1,
+    "un_copter": 1,
+    "un_boss_warrior": 1,
+    "un_sniper_mithril": 4,
+    "un_dragon": 1,
+    "un_sniper": 2,
+    "un_warrior": 1,
+    "un_sniper_elite": 4,
+    "un_swarm_elite": 2,
+    "un_raid_healer": 1,
+    "un_motocycle_elite": 3,
+    "un_motocycle": 1,
+    "un_troll": 40,
+    "un_swarm": 1,
+    "un_fairy": 40,
+    "un_healer": 1,
+    "un_dwarf": 19,
+    "un_golem": 1,
+    "un_disinfector": 20,
+    "un_tank": 3
+  },
+  "heroes": [
+    {
+      "kind": "un_hero",
+      "level": 1104,
+      "time": 1773857658.342241,
+      "u1": 1,
+      "u2": 2,
+      "u3": 1,
+      "u4": 0
+    }
+  ],
+  "clan": {
+    "id": "14b903a1-3eff-4050-8dec-55d4062d23c0",
+    "name": "Empire of jousj",
+    "emblem": "emblem12",
+    "points": 70,
+    "role": 4,
+    "d1": 0.0,
+    "d2": 1773856902.631497,
+    "d3": 1773856902.631497,
+    "units_can_buy": [
+      "un_motocycle_elite",
+      "un_swarm_mithril",
+      "un_swarm_elite",
+      "un_sniper_elite",
+      "un_motocycle_mithril",
+      "un_sniper_mithril",
+      "un_warrior_elite",
+      "un_copter",
+      "un_warrior_mithril",
+      "un_troll_elite",
+      "un_troll_mithril"
+    ],
+    "d4": 1773856902.631497
+  },
+  "th_level": 3,
+  "account_id": "ok_910426647961",
+  "snetwork": "ok",
+  "scouting": 0.0,
+  "clan_points": [
+    461,
+    30
+  ],
+  "gold": 952518317,
+  "crystal": 118535290,
+  "oil": 2771815,
+  "hglory": 45,
+  "mithril": 9999622499,
+  "blue_print": 0,
+  "ruby": 0,
+  "jglory": 0,
+  "rar_dragon": 0,
+  "call": 5,
+  "facts": 146063914,
+  "stage": "home4_hero_click",
+  "quests": [
+    {
+      "name": "achBigFamily4",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achFriendship2",
+      "targets": [
+        {
+          "v": 0,
+          "val": 1
+        }
+      ]
+    },
+    {
+      "name": "buildGuardTower1Lvl1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "buildCampLvl2",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achFamilyCastle2",
+      "targets": [
+        {
+          "v": 0,
+          "val": 3
+        }
+      ]
+    },
+    {
+      "name": "achCleaning1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 1
+        }
+      ]
+    },
+    {
+      "name": "achTraining1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 1
+        }
+      ]
+    },
+    {
+      "name": "achJeweler1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 2
+        }
+      ]
+    },
+    {
+      "name": "achRichlyLive1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achLegendaryHero1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 1
+        }
+      ]
+    },
+    {
+      "name": "achTesla1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achUnassailableFortress1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achFastWind1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 7
+        }
+      ]
+    },
+    {
+      "name": "achSpoilsOfWar1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 7908
+        }
+      ]
+    },
+    {
+      "name": "achOilHarvest1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 55
+        }
+      ]
+    },
+    {
+      "name": "achMerryCompany1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achSkyDeath1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achDragonSlayers1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 1
+        }
+      ]
+    },
+    {
+      "name": "achBlackGold1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 1
+        }
+      ]
+    },
+    {
+      "name": "achFreshBlood1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 1
+        }
+      ]
+    },
+    {
+      "name": "achScheduledTask1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achSuperiority1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achSapfirs1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 204
+        }
+      ]
+    },
+    {
+      "name": "achArchimage1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 1
+        }
+      ]
+    },
+    {
+      "name": "achFinancialCrisis1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achDworfCastle1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achCharity1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achChempion1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 18
+        }
+      ]
+    },
+    {
+      "name": "achClanHelp1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achAccounting1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achEnhancedTraining1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 35
+        }
+      ]
+    },
+    {
+      "name": "achPalaceCoup1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 1
+        }
+      ]
+    },
+    {
+      "name": "achLifeEnergy1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 1
+        }
+      ]
+    },
+    {
+      "name": "achOilBusiness1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 1
+        }
+      ]
+    },
+    {
+      "name": "achRaidLeader1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achImportatntVictory1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 1
+        }
+      ]
+    },
+    {
+      "name": "achSwatter1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achRogue1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 5749
+        }
+      ]
+    },
+    {
+      "name": "achBloodLust1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 0
+        }
+      ]
+    },
+    {
+      "name": "achExpiriance1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 3
+        }
+      ]
+    },
+    {
+      "name": "achDiversion1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 2
+        }
+      ]
+    },
+    {
+      "name": "achMountainTreasures1",
+      "targets": [
+        {
+          "v": 0,
+          "val": 1
+        }
+      ]
+    }
+  ],
+  "quests_closed": [
+    "tryCampaignMission2",
+    "achBigFamily3",
+    "achBigFamily2",
+    "achBigFamily1",
+    "achFriendship1",
+    "achFamilyCastle1",
+    "tryRaid1",
+    "buildSteamTower1Lvl1",
+    "buildTownhallLvl2"
+  ],
+  "win_missions": [
+    "ms_mission2"
+  ],
+  "ext_missions": [],
+  "stories": [],
+  "fight_hist": [],
+  "spells": [
+    "sp_fireball"
+  ],
+  "custom": {
+    "first_worker": "1",
+    "boss_raid": "true",
+    "first_barrack_open": "1"
+  },
+  "settings": {
+    "sg_sound": 100,
+    "sg_music": 100,
+    "sg_low_quality": true,
+    "sg_scale": 75,
+    "sg_in_game_alerts": false
+  },
+  "last_readed_news": "",
+  "clan_calls": 0,
+  "clan_calls_time": 0.0,
+  "read_chat_time": 1773856989.346769,
+  "group_id": 1,
+  "exp": 16343
+}

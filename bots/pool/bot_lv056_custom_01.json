@@ -1,0 +1,3277 @@
+{
+  "user_id": "bot-custom-lv056-01",
+  "name": "Алексей Путало",
+  "avatar": "",
+  "avatar_small": "",
+  "avatar_big": "",
+  "profile_url": "",
+  "level": 56,
+  "th_level": 1,
+  "sex": "m",
+  "exp": 117404,
+  "ratio": 30,
+  "account_id": "bot",
+  "snetwork": "bot",
+  "scouting": 0.0,
+  "clan": null,
+  "clan_points": null,
+  "heroes": [],
+  "troops": {},
+  "unit_levels": {
+    "sp_worker": 1,
+    "sp_fireball": 1,
+    "sp_worker_gold": 1,
+    "un_hero": 1,
+    "sp_fog": 1,
+    "un_raid_troll": 1,
+    "un_hero_jaina": 1,
+    "un_copter": 1,
+    "un_boss_warrior": 1,
+    "un_dragon": 1,
+    "un_sniper": 40,
+    "un_warrior": 1,
+    "un_raid_healer": 1,
+    "un_motocycle": 1,
+    "un_troll": 1,
+    "un_swarm": 40,
+    "un_fairy": 40,
+    "un_healer": 19,
+    "un_dwarf": 40,
+    "un_golem": 40,
+    "un_disinfector": 40,
+    "un_tank": 3
+  },
+  "gold": 890465778,
+  "crystal": 156664024,
+  "oil": 605816732,
+  "mithril": 999998015499,
+  "hglory": 45,
+  "ruby": 0,
+  "blue_print": 0,
+  "jglory": 0,
+  "rar_dragon": 0,
+  "buildings": [
+    {
+      "id": 1,
+      "kind": "bl_scouting_hh",
+      "level": 1,
+      "x": 35,
+      "y": 32,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "scouting"
+      }
+    },
+    {
+      "id": 10,
+      "kind": "bl_oil_storage",
+      "level": 1,
+      "x": 41,
+      "y": 13,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 11,
+      "kind": "bl_hero_workshop",
+      "level": 1,
+      "x": 16,
+      "y": 3,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "hero"
+      }
+    },
+    {
+      "id": 9,
+      "kind": "bl_crystal_storage",
+      "level": 2,
+      "x": 38,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 4,
+      "kind": "bl_portal",
+      "level": 1,
+      "x": 4,
+      "y": 26,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "raid"
+      }
+    },
+    {
+      "id": 5,
+      "kind": "bl_library",
+      "level": 1,
+      "x": 4,
+      "y": 32,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "library"
+      }
+    },
+    {
+      "id": 12,
+      "kind": "bl_camp",
+      "level": 10,
+      "x": 9,
+      "y": 41,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "camp"
+      }
+    },
+    {
+      "id": 46,
+      "kind": "bl_clan_center",
+      "level": 1,
+      "x": 4,
+      "y": 38,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "clan_center",
+        "lat": 1773856969.236921,
+        "resources": []
+      }
+    },
+    {
+      "id": 3,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 12,
+      "y": 27,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "pylon"
+      }
+    },
+    {
+      "id": 7,
+      "kind": "bl_oil_tower",
+      "level": 1,
+      "x": 41,
+      "y": 31,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1773857562.957073,
+        "done_count": 81
+      }
+    },
+    {
+      "id": 8,
+      "kind": "bl_crystal_mine",
+      "level": 1,
+      "x": 38,
+      "y": 16,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1773857639.280667,
+        "done_count": 10
+      }
+    },
+    {
+      "id": 2,
+      "kind": "bl_town_hall",
+      "level": 12,
+      "x": 21,
+      "y": 38,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "townhall"
+      }
+    },
+    {
+      "id": 6,
+      "kind": "bl_barracks",
+      "level": 4,
+      "x": 4,
+      "y": 41,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "barrack"
+      }
+    },
+    {
+      "id": 50,
+      "kind": "bl_academy",
+      "level": 1,
+      "x": 4,
+      "y": 29,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "research"
+      }
+    },
+    {
+      "id": 51,
+      "kind": "bl_builder",
+      "level": 1,
+      "x": 14,
+      "y": 3,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "worker"
+      }
+    },
+    {
+      "id": 52,
+      "kind": "bl_oil_tower",
+      "level": 1,
+      "x": 41,
+      "y": 28,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1774994057.3573012,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 53,
+      "kind": "bl_oil_tower",
+      "level": 1,
+      "x": 41,
+      "y": 16,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1774994060.0005739,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 54,
+      "kind": "bl_oil_tower",
+      "level": 1,
+      "x": 41,
+      "y": 19,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1774994062.5965369,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 55,
+      "kind": "bl_oil_tower",
+      "level": 1,
+      "x": 41,
+      "y": 22,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1774994066.2825882,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 56,
+      "kind": "bl_oil_tower",
+      "level": 1,
+      "x": 41,
+      "y": 25,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1774994069.2280025,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 57,
+      "kind": "bl_oil_storage",
+      "level": 1,
+      "x": 41,
+      "y": 4,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 58,
+      "kind": "bl_oil_storage",
+      "level": 1,
+      "x": 41,
+      "y": 7,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 59,
+      "kind": "bl_builder",
+      "level": 1,
+      "x": 12,
+      "y": 3,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "worker"
+      }
+    },
+    {
+      "id": 60,
+      "kind": "bl_builder",
+      "level": 1,
+      "x": 6,
+      "y": 3,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "worker"
+      }
+    },
+    {
+      "id": 61,
+      "kind": "bl_builder",
+      "level": 1,
+      "x": 8,
+      "y": 3,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "worker"
+      }
+    },
+    {
+      "id": 62,
+      "kind": "bl_builder",
+      "level": 1,
+      "x": 10,
+      "y": 3,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "worker"
+      }
+    },
+    {
+      "id": 63,
+      "kind": "bl_oil_storage",
+      "level": 1,
+      "x": 41,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 64,
+      "kind": "bl_oil_tower",
+      "level": 1,
+      "x": 41,
+      "y": 34,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775238309.9622557,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 65,
+      "kind": "bl_crystal_mine",
+      "level": 1,
+      "x": 38,
+      "y": 34,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775238395.5578234,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 66,
+      "kind": "bl_crystal_mine",
+      "level": 1,
+      "x": 38,
+      "y": 19,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775238400.1107922,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 67,
+      "kind": "bl_crystal_mine",
+      "level": 1,
+      "x": 38,
+      "y": 22,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775238402.1036928,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 68,
+      "kind": "bl_crystal_mine",
+      "level": 1,
+      "x": 38,
+      "y": 25,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775238404.5897775,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 69,
+      "kind": "bl_crystal_mine",
+      "level": 1,
+      "x": 38,
+      "y": 31,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775238406.833185,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 70,
+      "kind": "bl_crystal_mine",
+      "level": 1,
+      "x": 38,
+      "y": 28,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775238409.0394242,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 71,
+      "kind": "bl_crystal_storage",
+      "level": 1,
+      "x": 38,
+      "y": 7,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 72,
+      "kind": "bl_crystal_storage",
+      "level": 1,
+      "x": 38,
+      "y": 4,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 73,
+      "kind": "bl_crystal_storage",
+      "level": 1,
+      "x": 38,
+      "y": 13,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "storage"
+      }
+    },
+    {
+      "id": 74,
+      "kind": "bl_ruby_mine",
+      "level": 1,
+      "x": 4,
+      "y": 35,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775239014.078525,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 75,
+      "kind": "bl_mint_yard",
+      "level": 10,
+      "x": 27,
+      "y": 27,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "resource",
+        "last_apply_time": 1775991869.452154,
+        "done_count": 0
+      }
+    },
+    {
+      "id": 76,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 20,
+      "y": 30,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "pylon"
+      }
+    },
+    {
+      "id": 77,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 12,
+      "y": 35,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "pylon"
+      }
+    },
+    {
+      "id": 78,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 15,
+      "y": 41,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "pylon"
+      }
+    },
+    {
+      "id": 79,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 6,
+      "y": 33,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "pylon"
+      }
+    },
+    {
+      "id": 80,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 29,
+      "y": 35,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "pylon"
+      }
+    },
+    {
+      "id": 81,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 41,
+      "y": 37,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "pylon"
+      }
+    },
+    {
+      "id": 82,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 35,
+      "y": 34,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "pylon"
+      }
+    },
+    {
+      "id": 83,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 28,
+      "y": 41,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "pylon"
+      }
+    },
+    {
+      "id": 84,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 31,
+      "y": 41,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "pylon"
+      }
+    },
+    {
+      "id": 85,
+      "kind": "bl_power_plant",
+      "level": 1,
+      "x": 11,
+      "y": 41,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "pylon"
+      }
+    },
+    {
+      "id": 121,
+      "kind": "bl_guard_tower",
+      "level": 1,
+      "x": 34,
+      "y": 29,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "guard"
+      }
+    },
+    {
+      "id": 122,
+      "kind": "bl_guard_tower",
+      "level": 1,
+      "x": 7,
+      "y": 27,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "guard"
+      }
+    },
+    {
+      "id": 123,
+      "kind": "bl_guard_tower",
+      "level": 1,
+      "x": 16,
+      "y": 27,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "guard"
+      }
+    },
+    {
+      "id": 124,
+      "kind": "bl_guard_tower",
+      "level": 1,
+      "x": 24,
+      "y": 26,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "guard"
+      }
+    },
+    {
+      "id": 203,
+      "kind": "bl_shield_generator",
+      "level": 1,
+      "x": 15,
+      "y": 33,
+      "state": "finished",
+      "finish_time": null,
+      "spec": {
+        "type": "shield"
+      }
+    }
+  ],
+  "cannons": [
+    {
+      "id": 45,
+      "kind": "cn_steam_tower",
+      "level": 2,
+      "x": 27,
+      "y": 30,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 44,
+      "kind": "cn_ballista",
+      "level": 1,
+      "x": 27,
+      "y": 19,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 86,
+      "kind": "cn_flamethrower",
+      "level": 1,
+      "x": 10,
+      "y": 27,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 87,
+      "kind": "cn_flamethrower",
+      "level": 1,
+      "x": 18,
+      "y": 41,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 88,
+      "kind": "cn_flamethrower",
+      "level": 1,
+      "x": 21,
+      "y": 41,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 89,
+      "kind": "cn_freezing_tower",
+      "level": 1,
+      "x": 24,
+      "y": 38,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 90,
+      "kind": "cn_freezing_tower",
+      "level": 1,
+      "x": 30,
+      "y": 38,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 91,
+      "kind": "cn_freezing_tower",
+      "level": 1,
+      "x": 15,
+      "y": 39,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 92,
+      "kind": "cn_mortar",
+      "level": 1,
+      "x": 27,
+      "y": 36,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 93,
+      "kind": "cn_mortar",
+      "level": 1,
+      "x": 36,
+      "y": 38,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 94,
+      "kind": "cn_air",
+      "level": 1,
+      "x": 27,
+      "y": 33,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 95,
+      "kind": "cn_air",
+      "level": 1,
+      "x": 20,
+      "y": 25,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 96,
+      "kind": "cn_air",
+      "level": 1,
+      "x": 21,
+      "y": 28,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 97,
+      "kind": "cn_air",
+      "level": 1,
+      "x": 24,
+      "y": 32,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 98,
+      "kind": "cn_ballista",
+      "level": 1,
+      "x": 24,
+      "y": 35,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 99,
+      "kind": "cn_ballista",
+      "level": 1,
+      "x": 30,
+      "y": 30,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 100,
+      "kind": "cn_ballista",
+      "level": 1,
+      "x": 16,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 101,
+      "kind": "cn_ballista",
+      "level": 1,
+      "x": 33,
+      "y": 35,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 102,
+      "kind": "cn_ballista",
+      "level": 1,
+      "x": 33,
+      "y": 38,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 103,
+      "kind": "cn_ballista",
+      "level": 1,
+      "x": 9,
+      "y": 36,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 104,
+      "kind": "cn_steam_tower",
+      "level": 1,
+      "x": 9,
+      "y": 33,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 105,
+      "kind": "cn_steam_tower",
+      "level": 1,
+      "x": 12,
+      "y": 33,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 106,
+      "kind": "cn_steam_tower",
+      "level": 1,
+      "x": 15,
+      "y": 36,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 108,
+      "kind": "cn_dwarf_tower",
+      "level": 1,
+      "x": 18,
+      "y": 33,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 109,
+      "kind": "cn_tesla_coil",
+      "level": 1,
+      "x": 21,
+      "y": 33,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 111,
+      "kind": "cn_magnetic_tower",
+      "level": 1,
+      "x": 30,
+      "y": 33,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 112,
+      "kind": "cn_magnetic_tower",
+      "level": 1,
+      "x": 24,
+      "y": 29,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 113,
+      "kind": "cn_cannon",
+      "level": 1,
+      "x": 60,
+      "y": 37,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 114,
+      "kind": "cn_cannon",
+      "level": 1,
+      "x": 39,
+      "y": 37,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 115,
+      "kind": "cn_cannon",
+      "level": 1,
+      "x": 37,
+      "y": 41,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 116,
+      "kind": "cn_cannon",
+      "level": 1,
+      "x": 40,
+      "y": 40,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 117,
+      "kind": "cn_cannon",
+      "level": 1,
+      "x": 9,
+      "y": 30,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 118,
+      "kind": "cn_gauss_cannon",
+      "level": 1,
+      "x": 12,
+      "y": 30,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 119,
+      "kind": "cn_gauss_cannon",
+      "level": 1,
+      "x": 15,
+      "y": 30,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 120,
+      "kind": "cn_gauss_cannon",
+      "level": 1,
+      "x": 18,
+      "y": 30,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 201,
+      "kind": "cn_dwarf_tower",
+      "level": 1,
+      "x": 50,
+      "y": 27,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 202,
+      "kind": "cn_tesla_coil",
+      "level": 1,
+      "x": 27,
+      "y": 39,
+      "state": "finished",
+      "finish_time": null
+    }
+  ],
+  "fences": [
+    {
+      "id": 204,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 2,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 205,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 3,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 206,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 4,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 207,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 5,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 208,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 6,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 209,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 7,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 210,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 8,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 211,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 9,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 212,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 10,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 213,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 11,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 214,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 12,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 215,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 13,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 216,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 14,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 217,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 15,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 218,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 16,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 219,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 17,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 220,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 18,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 221,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 19,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 222,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 20,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 223,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 21,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 224,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 22,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 225,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 23,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 226,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 24,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 227,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 25,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 228,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 26,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 229,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 27,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 230,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 28,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 231,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 29,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 232,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 30,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 233,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 31,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 234,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 32,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 235,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 33,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 236,
+      "kind": "fn_wall",
+      "level": 13,
+      "x": 34,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 237,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 35,
+      "y": 10,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 238,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 35,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 239,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 34,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 240,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 33,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 241,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 32,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 242,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 31,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 243,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 30,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 244,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 29,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 245,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 28,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 246,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 27,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 247,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 26,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 248,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 25,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 249,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 24,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 250,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 23,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 251,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 22,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 252,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 21,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 253,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 20,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 254,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 19,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 255,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 18,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 256,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 17,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 257,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 16,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 258,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 15,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 259,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 14,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 260,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 13,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 261,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 12,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 262,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 11,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 263,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 10,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 264,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 9,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 265,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 8,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 266,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 7,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 267,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 6,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 268,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 5,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 269,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 4,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 270,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 3,
+      "y": 9,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 271,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 2,
+      "y": 9
+    },
+    {
+      "id": 272,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 3,
+      "y": 2
+    },
+    {
+      "id": 273,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 4,
+      "y": 2
+    },
+    {
+      "id": 274,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 4,
+      "y": 3
+    },
+    {
+      "id": 275,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 4,
+      "y": 4
+    },
+    {
+      "id": 276,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 4,
+      "y": 5
+    },
+    {
+      "id": 277,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 4,
+      "y": 6
+    },
+    {
+      "id": 278,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 4,
+      "y": 7,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 279,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 4,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 280,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 2,
+      "y": 8
+    },
+    {
+      "id": 281,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 2,
+      "y": 7
+    },
+    {
+      "id": 282,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 2,
+      "y": 6
+    },
+    {
+      "id": 283,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 2,
+      "y": 5
+    },
+    {
+      "id": 284,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 2,
+      "y": 4
+    },
+    {
+      "id": 285,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 2,
+      "y": 3
+    },
+    {
+      "id": 286,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 2,
+      "y": 2
+    },
+    {
+      "id": 287,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 3,
+      "y": 3
+    },
+    {
+      "id": 288,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 3,
+      "y": 4
+    },
+    {
+      "id": 289,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 3,
+      "y": 5
+    },
+    {
+      "id": 290,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 3,
+      "y": 6
+    },
+    {
+      "id": 291,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 3,
+      "y": 7,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 292,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 3,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 293,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 5,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 294,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 6,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 295,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 7,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 296,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 8,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 297,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 9,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 298,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 10,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 299,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 11,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 300,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 12,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 301,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 13,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 302,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 14,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 303,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 15,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 304,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 16,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 305,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 17,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 306,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 18,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 307,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 19,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 308,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 20,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 309,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 21,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 310,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 22,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 311,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 23,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 312,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 24,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 313,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 25,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 314,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 26,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 315,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 27,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 316,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 28,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 317,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 29,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 318,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 30,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 319,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 31,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 320,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 32,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 321,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 33,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 322,
+      "kind": "fn_wall",
+      "level": 12,
+      "x": 34,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 323,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 35,
+      "y": 8,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 324,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 35,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 325,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 34,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 326,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 33,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 327,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 32,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 328,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 31,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 329,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 30,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 330,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 29,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 331,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 28,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 332,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 27,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 333,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 26,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 334,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 25,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 335,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 24,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 336,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 23,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 337,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 22,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 338,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 21,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 339,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 20,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 340,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 19,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 341,
+      "kind": "fn_wall",
+      "level": 7,
+      "x": 18,
+      "y": 6,
+      "state": "finished",
+      "finish_time": null
+    },
+    {
+      "id": 342,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 17,
+      "y": 6
+    },
+    {
+      "id": 343,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 13,
+      "y": 6
+    },
+    {
+      "id": 344,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 12,
+      "y": 6
+    },
+    {
+      "id": 345,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 11,
+      "y": 6
+    },
+    {
+      "id": 346,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 10,
+      "y": 6
+    },
+    {
+      "id": 347,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 9,
+      "y": 6
+    },
+    {
+      "id": 348,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 8,
+      "y": 6
+    },
+    {
+      "id": 349,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 7,
+      "y": 6
+    },
+    {
+      "id": 350,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 6,
+      "y": 6
+    },
+    {
+      "id": 351,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 5,
+      "y": 6
+    },
+    {
+      "id": 352,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 5,
+      "y": 7
+    },
+    {
+      "id": 353,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 6,
+      "y": 7
+    },
+    {
+      "id": 354,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 7,
+      "y": 7
+    },
+    {
+      "id": 355,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 8,
+      "y": 7
+    },
+    {
+      "id": 356,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 9,
+      "y": 7
+    },
+    {
+      "id": 357,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 10,
+      "y": 7
+    },
+    {
+      "id": 358,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 11,
+      "y": 7
+    },
+    {
+      "id": 359,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 12,
+      "y": 7
+    },
+    {
+      "id": 360,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 13,
+      "y": 7
+    },
+    {
+      "id": 361,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 14,
+      "y": 7
+    },
+    {
+      "id": 362,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 15,
+      "y": 7
+    },
+    {
+      "id": 363,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 16,
+      "y": 7
+    },
+    {
+      "id": 364,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 17,
+      "y": 7
+    },
+    {
+      "id": 365,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 18,
+      "y": 7
+    },
+    {
+      "id": 366,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 19,
+      "y": 7
+    },
+    {
+      "id": 367,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 20,
+      "y": 7
+    },
+    {
+      "id": 368,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 21,
+      "y": 7
+    },
+    {
+      "id": 369,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 22,
+      "y": 7
+    },
+    {
+      "id": 370,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 23,
+      "y": 7
+    },
+    {
+      "id": 371,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 24,
+      "y": 7
+    },
+    {
+      "id": 372,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 25,
+      "y": 7
+    },
+    {
+      "id": 373,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 26,
+      "y": 7
+    },
+    {
+      "id": 374,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 27,
+      "y": 7
+    },
+    {
+      "id": 375,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 7
+    },
+    {
+      "id": 376,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 7
+    },
+    {
+      "id": 377,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 30,
+      "y": 7
+    },
+    {
+      "id": 378,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 31,
+      "y": 7
+    },
+    {
+      "id": 379,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 32,
+      "y": 7
+    },
+    {
+      "id": 380,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 33,
+      "y": 7
+    },
+    {
+      "id": 381,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 34,
+      "y": 7
+    },
+    {
+      "id": 382,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 35,
+      "y": 7
+    },
+    {
+      "id": 383,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 34,
+      "y": 5
+    },
+    {
+      "id": 384,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 35,
+      "y": 5
+    },
+    {
+      "id": 385,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 33,
+      "y": 5
+    },
+    {
+      "id": 386,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 32,
+      "y": 5
+    },
+    {
+      "id": 387,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 31,
+      "y": 5
+    },
+    {
+      "id": 388,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 30,
+      "y": 5
+    },
+    {
+      "id": 389,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 5
+    },
+    {
+      "id": 390,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 5
+    },
+    {
+      "id": 391,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 27,
+      "y": 5
+    },
+    {
+      "id": 392,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 26,
+      "y": 5
+    },
+    {
+      "id": 393,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 25,
+      "y": 5
+    },
+    {
+      "id": 394,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 24,
+      "y": 5
+    },
+    {
+      "id": 395,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 23,
+      "y": 5
+    },
+    {
+      "id": 396,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 22,
+      "y": 5
+    },
+    {
+      "id": 397,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 21,
+      "y": 5
+    },
+    {
+      "id": 398,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 20,
+      "y": 5
+    },
+    {
+      "id": 399,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 19,
+      "y": 5
+    },
+    {
+      "id": 400,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 18,
+      "y": 5
+    },
+    {
+      "id": 401,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 17,
+      "y": 5
+    },
+    {
+      "id": 402,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 13,
+      "y": 5
+    },
+    {
+      "id": 403,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 12,
+      "y": 5
+    },
+    {
+      "id": 404,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 11,
+      "y": 5
+    },
+    {
+      "id": 405,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 10,
+      "y": 5
+    },
+    {
+      "id": 406,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 9,
+      "y": 5
+    },
+    {
+      "id": 407,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 8,
+      "y": 5
+    },
+    {
+      "id": 408,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 7,
+      "y": 5
+    },
+    {
+      "id": 409,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 6,
+      "y": 5
+    },
+    {
+      "id": 410,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 5,
+      "y": 5
+    },
+    {
+      "id": 411,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 5,
+      "y": 4
+    },
+    {
+      "id": 412,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 6,
+      "y": 4
+    },
+    {
+      "id": 413,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 7,
+      "y": 4
+    },
+    {
+      "id": 414,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 8,
+      "y": 4
+    },
+    {
+      "id": 415,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 9,
+      "y": 4
+    },
+    {
+      "id": 416,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 10,
+      "y": 4
+    },
+    {
+      "id": 417,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 11,
+      "y": 4
+    },
+    {
+      "id": 418,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 12,
+      "y": 4
+    },
+    {
+      "id": 419,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 13,
+      "y": 4
+    },
+    {
+      "id": 420,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 17,
+      "y": 4
+    },
+    {
+      "id": 421,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 18,
+      "y": 4
+    },
+    {
+      "id": 422,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 19,
+      "y": 4
+    },
+    {
+      "id": 423,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 20,
+      "y": 4
+    },
+    {
+      "id": 424,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 21,
+      "y": 4
+    },
+    {
+      "id": 425,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 22,
+      "y": 4
+    },
+    {
+      "id": 426,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 23,
+      "y": 4
+    },
+    {
+      "id": 427,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 24,
+      "y": 4
+    },
+    {
+      "id": 428,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 25,
+      "y": 4
+    },
+    {
+      "id": 429,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 26,
+      "y": 4
+    },
+    {
+      "id": 430,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 27,
+      "y": 4
+    },
+    {
+      "id": 431,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 4
+    },
+    {
+      "id": 432,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 4
+    },
+    {
+      "id": 433,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 30,
+      "y": 4
+    },
+    {
+      "id": 434,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 31,
+      "y": 4
+    },
+    {
+      "id": 435,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 32,
+      "y": 4
+    },
+    {
+      "id": 436,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 33,
+      "y": 4
+    },
+    {
+      "id": 437,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 34,
+      "y": 4
+    },
+    {
+      "id": 438,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 35,
+      "y": 4
+    },
+    {
+      "id": 439,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 35,
+      "y": 3
+    },
+    {
+      "id": 440,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 34,
+      "y": 3
+    },
+    {
+      "id": 441,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 33,
+      "y": 3
+    },
+    {
+      "id": 442,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 32,
+      "y": 3
+    },
+    {
+      "id": 443,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 31,
+      "y": 3
+    },
+    {
+      "id": 444,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 30,
+      "y": 3
+    },
+    {
+      "id": 445,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 3
+    },
+    {
+      "id": 446,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 3
+    },
+    {
+      "id": 447,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 27,
+      "y": 3
+    },
+    {
+      "id": 448,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 26,
+      "y": 3
+    },
+    {
+      "id": 449,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 25,
+      "y": 3
+    },
+    {
+      "id": 450,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 24,
+      "y": 3
+    },
+    {
+      "id": 451,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 23,
+      "y": 3
+    },
+    {
+      "id": 452,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 22,
+      "y": 3
+    },
+    {
+      "id": 453,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 21,
+      "y": 3
+    },
+    {
+      "id": 454,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 20,
+      "y": 3
+    },
+    {
+      "id": 455,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 19,
+      "y": 3
+    },
+    {
+      "id": 456,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 18,
+      "y": 3
+    },
+    {
+      "id": 457,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 17,
+      "y": 3
+    },
+    {
+      "id": 458,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 17,
+      "y": 2
+    },
+    {
+      "id": 459,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 18,
+      "y": 2
+    },
+    {
+      "id": 460,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 19,
+      "y": 2
+    },
+    {
+      "id": 461,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 20,
+      "y": 2
+    },
+    {
+      "id": 462,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 21,
+      "y": 2
+    },
+    {
+      "id": 463,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 22,
+      "y": 2
+    },
+    {
+      "id": 464,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 23,
+      "y": 2
+    },
+    {
+      "id": 465,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 24,
+      "y": 2
+    },
+    {
+      "id": 466,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 25,
+      "y": 2
+    },
+    {
+      "id": 467,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 26,
+      "y": 2
+    },
+    {
+      "id": 468,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 27,
+      "y": 2
+    },
+    {
+      "id": 469,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 28,
+      "y": 2
+    },
+    {
+      "id": 470,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 2
+    },
+    {
+      "id": 471,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 30,
+      "y": 2
+    },
+    {
+      "id": 472,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 31,
+      "y": 2
+    },
+    {
+      "id": 473,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 32,
+      "y": 2
+    },
+    {
+      "id": 474,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 33,
+      "y": 2
+    },
+    {
+      "id": 475,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 34,
+      "y": 2
+    },
+    {
+      "id": 476,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 35,
+      "y": 2
+    },
+    {
+      "id": 477,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 35,
+      "y": 11
+    },
+    {
+      "id": 478,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 34,
+      "y": 11
+    },
+    {
+      "id": 479,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 33,
+      "y": 11
+    },
+    {
+      "id": 480,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 32,
+      "y": 11
+    },
+    {
+      "id": 481,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 31,
+      "y": 11
+    },
+    {
+      "id": 482,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 30,
+      "y": 11
+    },
+    {
+      "id": 483,
+      "kind": "fn_wall",
+      "level": 1,
+      "x": 29,
+      "y": 11
+    }
+  ],
+  "decors": [],
+  "garbages": [],
+  "object_id_counter": 483
+}
